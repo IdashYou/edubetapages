@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/w3.css" rel="stylesheet" />
+    <link href="css/font-awesome.css" rel="stylesheet" />
+    <script src="jscript/dropdown.js"></script>
+</head>
+<body class="w3-dark-grey" style="background-image: url(../images/greenbg.png)">
+    <div class="w3-top w3-container w3-dark-grey w3-border-black w3-card-4 w3-border-bottom" style="height:60px">
+        <div class=" w3-xlarge w3-left w3-padding-12">
+            <span class="w3-large"><i class="fa fa-arrow-circle-left w3-xlarge" onclick="document.location='toolconverter.html'"></i> &nbsp;&nbsp; Energy Converter </span>
+        </div>
+    </div>
+
+    <article class=" w3-content w3-animate-right w3-text-white" style="margin-top:65px; padding:5px; padding-bottom:20px; margin-bottom:50px">
+        <script type="text/javascript" language="JavaScript">
+<!--
+//    Script Editor:   Howard Chen
+//    Browser Compatible for the script: IE 3.0 or Higher
+//                                       Netscape 2.0 or Higher
+//    This script is free as long as you keep its credits
+/*The way this works is the converter converts the number
+into the smallest unit in the converter, in this case it will
+be gram, and then it converts the unit fram gram to other units.*/
+function nofocus()
+{
+document.convert.InUnit.focus()
+}
+var joule = 1
+var elv = 1.6022e-19
+var kcal = 4.184
+var kwh = 3.6e+6
+var erg = 1.055e+8
+function toCM()
+{
+var i = document.convert.unit.selectedIndex
+var thisUnit = document.convert.unit.options[i].value
+if (thisUnit == "G")
+        {
+document.convert.g.value = document.convert.InUnit.value
+        }
+else if(thisUnit == "KG")
+        {
+document.convert.g.value = document.convert.InUnit.value * kgValue
+        }
+else if(thisUnit == "OUNCE" )
+        {
+document.convert.g.value = document.convert.InUnit.value * ounceValue
+        }
+else if(thisUnit == "LB" )
+        {
+document.convert.g.value = document.convert.InUnit.value * lbValue
+        }
+else if(thisUnit == "T" )
+        {
+document.convert.g.value = document.convert.InUnit.value * tValue
+        }
+toAll()
+}
+function toAll()
+{
+var m = document.convert.g.value
+document.convert.kg.value = m / elv
+document.convert.ounce.value = m / kcal
+document.convert.lb.value = m / kwh
+document.convert.t.value = m / erg
+}
+//-->
+        </script>
+        <div align="center">
+            <form name="convert">
+                <table border=0 style="width:100%">
+                    <tr><th>Unit</th><th>Number</th></tr>
+                    <tr>
+                        <td>
+                            <select name="unit" class="w3-input  w3-round" onclick="toCM()">
+                                <option value="G">Joules
+                                <option value="KG">Electrovolt
+                                <option value="OUNCE">Kilocalorie
+                                <option value="LB">PKiowatt Hour
+                                <option value="T">ERG
+                            </select>
+                        </td>
+                        <td>
+                            <input type="text" name="InUnit" size="20" maxlength="20" value="0" class="w3-input  w3-round">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Joules:
+                        </td>
+                        <td>
+                            <input type="text" name="g" size="20" maxlength="20" value="0" onfocus="nofocus()" class="w3-input  w3-round">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Electrovolt:
+                        </td>
+                        <td>
+                            <input type="text" name="kg" size="20" maxlength="20" value="0" onfocus="nofocus()" class="w3-input  w3-round">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                           Kilocalorie:
+                        </td>
+                        <td>
+                            <input type="text" name="ounce" size="20" maxlength="20" value="0" onfocus="nofocus()" class="w3-input  w3-round">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            ERG:
+                        </td>
+                        <td>
+                            <input type="text" name="lb" size="20" maxlength="20" value="0" onfocus="nofocus()" class="w3-input  w3-round">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            U.S. Ton:
+                        </td>
+                        <td>
+                            <input type="text" name="t" size="20" maxlength="20" value="0" onfocus="nofocus()" class="w3-input  w3-round">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <br />
+                            <input type="Reset" value="Reset" width=100 class="w3-input  w3-round w3-yellow">
+                        </td>
+                        <td>
+                            <br />
+                            <input type="button" value="Convert" onclick="toCM()" width=150 class="w3-input  w3-round w3-yellow">
+                        </td>
+                    </tr>
+                </table>
+            </form>
+            </font>
+            </td></tr>
+            </table>
+        </div>
+
+   
+    </article>
+
+    <div class="w3-col l12 s12 m12 w3-container " style="height:60px">
+        <br /> &nbsp;
+    </div>
+</body>
+</html>

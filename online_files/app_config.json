@@ -1,0 +1,42 @@
+{
+  "appName": "Edu-Beta-App",
+  "appId": 1,
+  "regInfoURL": "/online_files/reg_info.json",
+  "pinApiURL": "/online_files/reg_success.json",
+  "appApiURL": "https://edubeta.com/",
+  "registrationHelpURL": "/online_files/registration_help.html",
+  "privacyPolicyURL": "/online_files/privacy.html",
+  "termsAndConditionURL": "/online_files/terms.html",
+  "googleLoginUrl": "/online_files/googlelogin/googleloginserverprofeworld.html",
+  "contactNumber": "_2349067130000",
+  "onlineClassNumber": "_2349067130000",
+  "hidePayment": false,
+  "enableCompetiton": false,
+  "enableFreeCompetiton": true,
+  "competitionConfig": {
+    "engnum": 10,
+    "num": 5,
+    "numbound": 10,
+    "bound1": 10,
+    "bound2": 15,
+    "bound3": 20,
+    "bound4": 25,
+    "time": 610
+  },
+  "competitionInstruction": "Test your brain with thousands of Jambite and stand a chance to win prize weekly. <br /> <br /> Every week the top students on the weekly leaders board win a prize and at the end of this Jamb season the All time leader on the leaders board win the grand prize. <br /> <br /> You have to finish before the time for your result to be submitted <br /><br /> <em> You must be an Activated user of Learn Beta App to redeemed any prize won </em>",
+  "subtypeOptions": [
+    {
+      "planName": "Complete Access (Past Question + Textbook + Videos)",
+      "planValue": "full"
+    },
+    {
+      "planName": "Past Question (CBT Practice) Only",
+      "planValue": "pq"
+    }
+  ],
+  "enabledSubtypeOptions": true,
+  "groupLink": "https://chat.whatsapp.com/LOe1r1yQKHVAcFkzsTztWk",
+  "andriod_free": false,
+  "ios_free": false,
+  "showDisclaimerMsg": true
+}

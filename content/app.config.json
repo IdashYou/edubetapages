@@ -1,0 +1,35 @@
+{
+    "appName": "Profeworld-Learn-Beta-App",
+    "appId": 1,
+    "pinApiURL": "https://pins.profeworld.com/script/registerappnew.ashx",
+    "appApiURL": "https://mystudyappapi.profeworld.com/",
+    "registrationHelpURL": "https://profe1000.github.io/profeworld-learnbeta-pages/registration_help.html",
+    "privacyPolicyURL": "https://profe1000.github.io/profeworld-learnbeta-pages/privacy.html",
+    "termsAndConditionURL": "https://profe1000.github.io/profeworld-learnbeta-pages/terms.html",
+    "googleLoginUrl": "https://learnbeta.profeworld.com/googlelogin/googleloginserverprofeworld.html",
+    "contactNumber": "07030911579",
+    "onlineClassNumber": "_2348155969878",
+    "hidePayment": false,
+    "enableCompetiton": true,
+    "competitionConfig": {
+        "engnum": 60,
+        "num": 40,
+        "numbound": 60,
+        "bound1": 60,
+        "bound2": 100,
+        "bound3": 140,
+        "bound4": 180,
+        "time": 7200
+    },
+    "competitionInstruction":"",
+    "subtypeOptions":[{
+        "planName": "Complete Access (Past Question + Textbook + Videos)",
+        "planValue": "full"
+      },
+      {
+        "planName": "Past Question (CBT Practice) Only",
+        "planValue": "pq"
+      }],
+    "enabledSubtypeOptions":true,
+     "showDisclaimerMsg":true
+}

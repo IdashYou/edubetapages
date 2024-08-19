@@ -1,0 +1,222 @@
+
+
+
+{
+	"statuscode":"100",
+	"statusmessage":"Retrive successfully",
+
+	  "quizconfig":{
+			 "Name": "Biology POST UTME",
+			  "Pathname": "Biology_waec",
+			  "description": "Past Question on Biology for POST UTME for more than 10 years",
+			  "icon": "media/icon.png?2",
+			  "certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+			  "Version": 1,
+			  "Author": "Soligbo Emmanuel",
+			  "courseid": 2,
+			  "years":[2012,2013,2014,2015,2016,2017],
+			  "examtype":[ ],
+			  "topics":["Concept of Living"," Classification"," Organization of life"," Forms in which living cells exist"," Cell structure and functions of cell components"," The Cell and its environment: Physical and Biophysical processes"," Properties and functions of the living cell"," Tissues and supporting systems","Skeleton and supporting systems in animals"," Transport System"," Respiratory System"," Excretory Systems and Mechanisms"," Regulation of Internal Environment"," Hormonal Coordination"," Nervous Coordination"," Sense Organs: Structure and function of the eye and ear"," Reproductive system of mammals"," Plant and Animal Nutrition"," Plant Nutrition"," Animal Nutrition"," Basic Ecological Concepts"," Ecosystem"," Ecological factors"," Simple Measurement of Ecological Factors"," Food webs and trophic levels"," Ecological Management"," Ecology of population"," Microorganisms: Man and health"," Conservation of Natural Resources"," Resources to be conserved: soil"," water"," wildlife"," forest and minerals","Ways of ensuring conservation"," Variation in Population"," Morphological variations in the physical appearance of individuals"," Physiological Variations"," Biology of Heredity (Genetics)"," Genetic terminologies"," Transmission and expression of characteristics in organisms. Chromosomes: The basis of heredity"," Probability in genetics (Hybrid formation). Linkage"," sex determination and sex linked characters. Application of the principles of heredity in Agriculture and Medicine "," Adaptation for survival and Evolution"," Behavioral Adaptations in Social Animals"," Evolution"],
+		      "settingsource":"external"
+			},
+		 
+	   "questions": [
+			{
+				"instruction": "",
+				"question": "<p>A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water?</p>",
+				"optiona": " the cube will melt after a period of time",
+				"optionb": "the cube will float",
+				"optionc": "the cube will sink in water",
+				"optiond": "the cube will rest at an equilibrium position in water",
+				"optione": "",
+				"correction": "<p>For the uniform cube 10cm volume = 10 x 10 x 10 = $10^3cm^3$&nbsp;Mass = 700g &there4; density = (Mass)/Volume = (700)/100 = 0.7gcm-3 since the density is less than the density of water, the cube will float</p>",
+				"correctopt": "B",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>At low humidity in an environment, the human skin is usually?</p>",
+				"optiona": "damp and rough",
+				"optionb": "damp and smooth",
+				"optionc": "dry and rough",
+				"optiond": "dry and smooth",
+				"optione": "",
+				"correction": "",
+				"correctopt": "C",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>If the relative density of gold is 19.2, the volume of 2.4kg of gold is?</p>",
+				"optiona": "$8.00 x 10^{-3} m^3$",
+				"optionb": "$1.25 x 10^{-4} m^3$",
+				"optionc": "$1.92 x 10^{-4} m^3$",
+				"optiond": "$4.61 x 10^{-3} m^3$",
+				"optione": "",
+				"correction": "<p>R.D = (density of the subs)/density of water 19.2 =(P)/10^3 ; &there4;P = 19.2 X 10^3 But Vol. = (Mass)/density = (2.4)/19.2 x 10^3 = $1.25 x 10^{-4} m^3$</p>",
+				"correctopt": "B",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>The thermometric property of a constant volume thermometer is?</p>",
+				"optiona": "change in volume",
+				"optionb": " differential expanssion",
+				"optionc": "change in pressure",
+				"optiond": "change in length",
+				"optione": "",
+				"correction": "<p>The thermometric property of a constant volume thermometer is change in pressure with temperature</p>",
+				"correctopt": "C",
+				"year": "2006",
+				"topic": 0,
+				"examtype": 0
+			}, {
+				"instruction": "",
+				"question": "<p>An immersion heater rated 2.0A, 240V is used to boil water from temperature 52&deg;c to 100&deg;c. If the mass of the water is 2.5kg. determine the time taken to boil the water.</p>\n<p>[specific heat capacity of water = $4.2 x 10^3 jkg{-1} k^{-1}]$</p>",
+				"optiona": "$1.05 x 10^3s$",
+				"optionb": "$1.05 x 10^5s$",
+				"optionc": "$1.05 x 10^2s$",
+				"optiond": "$1.05 x 10^4s$",
+				"optione": "",
+				"correction": "<p>Power of heater = lvt = 2 x 240 x t heat required to boil the water = Mct = 2.5 x 4.2 x 10^3 x (100.52) = 2.5 x 4. 2 x 10^3 x 48 2 x 240 x t = 2.5 x 4.2 x 10^3 x 48 &there4; t = (2.5 x 4.2 x 103 x 48)/2 x 240 = 1050s or $1.05 x 10^3s$</p>",
+				"correctopt": "A",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>The thermos flask is designed to?</p>",
+				"optiona": "prevent heat loss or gain by conduction,convection and radiation",
+				"optionb": " store hot tea or water",
+				"optionc": "prevent heat gain by conduction, convection and radiation",
+				"optiond": " prevent head lost conduction, convention and radiation",
+				"optione": "",
+				"correction": "",
+				"correctopt": "A",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?</p>",
+				"optiona": "the glass will break",
+				"optionb": " the glass will shrink",
+				"optionc": " the liquid will rise up in the stem",
+				"optiond": "the liquid will go down in the stem",
+				"optione": "",
+				"correction": "",
+				"correctopt": "D",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>A drop of petrol makes a finger colder than a drop of water would because?</p>",
+				"optiona": " petrol takes its latent heat of veporization from the finger",
+				"optionb": " petrol takes its latent heat of fusion from the finger",
+				"optionc": "water is more viscious than petrol",
+				"optiond": "water has higher surface tension dan petrol",
+				"optione": "",
+				"correction": "",
+				"correctopt": "A",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>A cell of internal resistance r is connected to an external resistor R. The conductor for maximum power transfer is?</p>",
+				"optiona": "R < r",
+				"optionb": "R = r",
+				"optionc": "R = 2r",
+				"optiond": "R > r",
+				"optione": "",
+				"correction": "<p>p is the time rate of expending energy. for electrical energy, P = IV; 1^2R or (V)/R. For a cell of constant e.m.f (voltage) maintaining constant current(1) through the circuit, P &alpha; R; OR (1)/R. Again for maxi. power,p &alpha; R  And with respect to the opinion, maxi power would be transferred when R&gt;r:not necessarily R = 2r</p>",
+				"correctopt": "D",
+				"year": "2006",
+				"topic": 0,
+				"examtype": 0
+			}, {
+				"instruction": "",
+				"question": "<p>The production and type of charge of a body can only be accounted for by the?</p>",
+				"optiona": " deficiency or surplus of electrons",
+				"optionb": " equibrium in protons and neutrons",
+				"optionc": " deficiency or surplus of protrons",
+				"optiond": "deficiency or surplus of neutrons",
+				"optione": "",
+				"correction": "",
+				"correctopt": "A",
+				"year": "2006",
+				"topic": 0,
+				"examtype": 0
+			}, {
+				"instruction": "",
+				"question": "<p>The main purpose of the transformer in an a.c radio set is to?</p>",
+				"optiona": " increase power to the radio",
+				"optionb": "step up the voltage",
+				"optionc": "convert energy from a.c to d.c",
+				"optiond": "step down the voltage",
+				"optione": "",
+				"correction": "",
+				"correctopt": "D",
+				"year": "2006",
+				"topic": 0,
+				"examtype": 0
+			}, {
+				"instruction": "",
+				"question": "<p>An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960Ω. find the power rating of the heater.</p>",
+				"optiona": "0.25 W",
+				"optionb": "4.00 W",
+				"optionc": "38.40W",
+				"optiond": "60.00W",
+				"optione": "",
+				"correction": "<p>Electrical power = IV or I^2R or (V)/R With V = 240v, R = 960Ω Power (V^2 )/R = (240 X 240)/960 =60Watts</p>",
+				"correctopt": "D",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>If the capacitance of an capacitor is C = (&epsilon;A)/d, which of the following parameters is varied when a variable capacitors is used for tuning radio sets?</p>",
+				"optiona": "constant (ε) and area",
+				"optionb": "area and distance.",
+				"optionc": " constant (ε) only",
+				"optiond": "distance only",
+				"optione": "",
+				"correction": "",
+				"correctopt": "B",
+				"year": "2006",
+				"topic": 0,
+				"examtype": 0
+			}, {
+				"instruction": "",
+				"question": "<p>When an a.c. voltage is applied to a capacitor, no power is consumed because the current</p>",
+				"optiona": "leads the voltage by $90^°$",
+				"optionb": "lags behind the voltage by $90^°$",
+				"optionc": "and voltage are in phase",
+				"optiond": "and voltage are $180^°$ out of phase",
+				"optione": "",
+				"correction": "<p>In a capacitive circuit, current leads voltage by $90^o$, or voltage lags current by$90^o$</p>",
+				"correctopt": "A",
+				"year": "2006",
+				"topic": -1,
+				"examtype": -1
+			}, {
+				"instruction": "",
+				"question": "<p>The electrolyte in the Nickei-iron (Nife) accumulator is</p>",
+				"optiona": "potassium hydroxide solution",
+				"optionb": "dilute tetraoxosulphate(VI)acid",
+				"optionc": "copper tetraoxosulphate(VI)solution",
+				"optiond": "ammonium chloride solution",
+				"optione": "",
+				"correction": "",
+				"correctopt": "A",
+				"year": "2006",
+				"topic": 0,
+				"examtype": 0
+			}
+		 ]
+		 
+	}

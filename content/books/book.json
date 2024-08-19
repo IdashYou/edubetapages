@@ -1,0 +1,93 @@
+{
+        "books": [
+                 {
+                        "id": "1",
+                        "Name": "Syllables",
+                        "Pathname": "jamb_syllables",
+                        "pqpath": "jamb_syllables",
+                        "description": "Summary of Jamb Syllables",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "2",
+                        "Name": "Biology",
+                        "Pathname": "bio_unnputme",
+                        "pqpath": "bio_unnputme",
+                        "description": "A brief Summary on Biology",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "3",
+                        "Name": "Chemistry",
+                        "Pathname": "chem_unnputme",
+                        "pqpath": "Chemistry_putmeunn",
+                        "description": "A summary on chemistry",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "5",
+                        "Name": "CRK",
+                        "Pathname": "crk_unnputme",
+                        "pqpath": "crk_unnputme",
+                        "description": "A summary on CRK",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "6",
+                        "Name": "Economics",
+                        "Pathname": "econs_unnputme",
+                        "pqpath": "econs_unnputme",
+                        "description": "A summary on Economics",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "7",
+                        "Name": "English Studies",
+                        "Pathname": "eng_unnputme",
+                        "pqpath": "eng_unnputme",
+                        "description": "A summary on English Language",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "10",
+                        "Name": "Government",
+                        "Pathname": "gov_unnputme",
+                        "pqpath": "Government_putmeunn",
+                        "description": "A summary on Government",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "11",
+                        "Name": "Literature Summary",
+                        "Pathname": "lit_unnputme",
+                        "pqpath": "lit_unnputme",
+                        "description": "A summary on Literature",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "11",
+                        "Name": "Literature Text",
+                        "Pathname": "littext_unnputme",
+                        "pqpath": "littext_unnputme",
+                        "description": "A summary on Literature Text",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "12",
+                        "Name": "Mathematics",
+                        "Pathname": "maths_unnputme",
+                        "pqpath": "maths_unnputme",
+                        "description": "A brief Summary on Mathematics",
+                        "icon": "media/icon.png?3"
+                },
+                {
+                        "id": "13",
+                        "Name": "Physics",
+                        "Pathname": "physics_unnputme",
+                        "pqpath": "physics_unnputme",
+                        "description": "A brief Summary on Physics",
+                        "icon": "media/icon.png?3"
+                }
+             ]
+        
+        }

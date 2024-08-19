@@ -1,0 +1,106 @@
+{
+        "statuscode":"99",
+        "statusmessage":"Retrive successfully",
+        "post": [
+                {
+                        "id": "2",
+                        "Name": "Biology Videos",
+                        "tag": "biologyvideo",
+                        "description": "A brief Summary on Biology",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/bioicon.png?3",
+                        "coursetag":[
+                                     {"displayname":"Biology SS1 3rd Term", "tagname":"biologyvideoss13rdterm","topicgroups":"2"},
+                                     {"displayname":"Biology SS2 3rd Term", "tagname":"biologyvideoss23rdterm","topicgroups":"2"},
+                                     {"displayname":"Biology SS3 (Jamb/SSCE Exam Revision)", "tagname":"biologyvideoss33rdterm","topicgroups":"2"},
+                                     {"displayname":"Bio Recent Uploaded Video", "tagname":"biologyvideonew","topicgroups":"4"},
+                                     {"displayname":"Biology All Videos", "tagname":"biologyvideoall","topicgroups":"2"}
+                                   ]
+                },
+                {
+                        "id": "3",
+                        "Name": "Chemistry Videos",
+                        "tag": "chemistryvideo",
+                        "description": "A brief Summary on Chemsitry",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/chemicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Chemistry SS1 3rd Term", "tagname":"chemistryvideoss13rdterm","topicgroups":"2"},
+                                {"displayname":"Chemistry SS2 3rd Term", "tagname":"chemistryvideoss23rdterm","topicgroups":"2"},
+                                {"displayname":"Chemistry SS3 (Jamb/SSCE Exam Revision)", "tagname":"chemistryvideoss33rdterm","topicgroups":"2"},
+                                {"displayname":"Chem Recent Uploaded Video", "tagname":"chemistryvideonew","topicgroups":"4"},
+                                {"displayname":"Chemistry All Videos", "tagname":"chemistryvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "11",
+                        "Name": "Physics Videos",
+                        "tag": "physicsvideo",
+                        "description": "A brief Summary on Physics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/phyicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Physics SS1 3rd Term", "tagname":"physicsvideoss13rdterm","topicgroups":"2"},
+                                {"displayname":"Physics SS2 3rd Term", "tagname":"physicsvideoss23rdterm","topicgroups":"2"},
+                                {"displayname":"Physics SS3 (Jamb/SSCE Exam Revision)", "tagname":"physicsvideoss33rdterm","topicgroups":"2"},
+                                {"displayname":"Phy Recent Uploaded Video", "tagname":"physicsvideonew","topicgroups":"4"},
+                                {"displayname":"Physics All Videos", "tagname":"physicsvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "12",
+                        "Name": "Mathematics Videos",
+                        "tag": "mathematicsvideo",
+                        "description": "A brief Summary on Mathematics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/mathsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Mathematics SS1 3rd Term", "tagname":"mathematicsvideoss13rdterm","topicgroups":"2"},
+                                {"displayname":"Mathematics SS2 3rd Term", "tagname":"mathematicsvideoss23rdterm","topicgroups":"2"},
+                                {"displayname":"Mathematics SS3 (Jamb/SSCE Exam Revision)", "tagname":"mathematicsvideoss33rdterm","topicgroups":"2"},
+                                {"displayname":"Maths Recent Uploaded Video", "tagname":"mathematicsvideonew","topicgroups":"4"},
+                                {"displayname":"Mathematics All Videos", "tagname":"mathematicsvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "07",
+                        "Name": "English Videos",
+                        "tag": "englishvideo",
+                        "description": "A brief Summary on English",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/englishicon.png?3",
+                        "coursetag":[
+                                {"displayname":"English SS1,2,3", "tagname":"englishvideoall","topicgroups":"2"},
+                                {"displayname":"English Recent Uploaded Video", "tagname":"englishvideonew","topicgroups":"4"}
+                              ]
+                },
+                {
+                        "id": "06",
+                        "Name": "Economics Videos",
+                        "tag": "economicsvideo",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/econsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Economics SS1 3rd Term", "tagname":"economicsvideoss13rdterm","topicgroups":"2"},
+                                {"displayname":"Economics SS2 3rd Term", "tagname":"economicsvideoss23rdterm","topicgroups":"2"},
+                                {"displayname":"Economics SS3 (Jamb/SSCE Exam Revision)", "tagname":"economicsvideoss33rdterm","topicgroups":"2"},
+                                {"displayname":"Economics Recent Uploaded Video", "tagname":"economicsvideonew","topicgroups":"4"},
+                                {"displayname":"Economics All Videos", "tagname":"economicsvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "10",
+                        "Name": "Government Videos",
+                        "tag": "governmentvideo",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/econsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Government SS1 3rd Term", "tagname":"governmentvideoss13rdterm","topicgroups":"2"},
+                                {"displayname":"Government SS2 3rd Term", "tagname":"governmentvideoss23rdterm","topicgroups":"2"},
+                                {"displayname":"Government SS3 (Jamb/SSCE Exam Revision)", "tagname":"governmentvideoss33rdterm","topicgroups":"2"},
+                                {"displayname":"Government Recent Uploaded Video", "tagname":"governmentvideonew","topicgroups":"4"},
+                                {"displayname":"Government All Videos", "tagname":"governmentvideoall","topicgroups":"2"}
+                              ]
+                }
+             ],
+
+        "alertmessgae":"<b class='w3-text-red'>We appologise for the delay in updating/uploading Videos, All video courses will be updated by 10th of May, and will be in repect to your syllables, we will extend all our subscribers subscription by 2 weeks for those who subscribe before 10th of may for the inconvinence </b>",
+        "alertcolour":"pale-red",
+        "alertdisplay":1
+        
+        }

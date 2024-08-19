@@ -1,0 +1,96 @@
+{
+        "pastquestions": [
+                {
+                   "Name": "Agric Science",
+                            "Pathname": "agric_waec",
+                            "description": "Past Question on Agric Science",
+                            "icon": "media/icon.png?2",
+                            "courseid": 1
+                 },
+                 {
+                    "Name": "Biology",
+                        "Pathname": "Biology_waec",
+                        "description": "Past Question on Futo Biology",
+                        "icon": "media/icon.png?2",
+                        "courseid": 2
+                },
+                {
+                        "Name": "Chemistry",
+                            "Pathname": "Chemistry_waec",
+                            "description": "Past Question on Chemistry",
+                            "icon": "media/icon.png?2",
+                            "courseid": 3
+                },
+                {
+                        "Name": "Commerce",
+                            "Pathname": "Commerce_ waec",
+                            "description": "Past Question on Commerce",
+                            "icon": "media/icon.png?2",
+                            "courseid": 4
+                },
+                {
+                        "Name": "CRK",
+                            "Pathname": "CRK_waec",
+                            "description": "Past Question on CRK",
+                            "icon": "media/icon.png?2",
+                            "courseid": 5
+                },
+                {
+                        "Name": "Economics",
+                        "Pathname": "Economics_waec",
+                        "description": "Past Question on Economics",
+                        "icon": "media/icon.jpeg?2",
+                        "courseid": 6
+                },
+                {
+                        "Name": "English",
+                        "Pathname": "english_waec",
+                        "description": "Past Question on English",
+                        "icon": "media/icon.png?2",
+                        "courseid": 7
+                },{
+                        "Name": "Financial Account",
+                        "Pathname": "Financial_Account_waec",
+                        "description": "Past Question on Financial Account",
+                        "icon": "media/icon.png?2",
+                        "courseid": 8
+                },
+                {
+                        "Name": "Geography",
+                        "Pathname": "Geography_waec",
+                        "description": "Past Question on Geography",
+                        "icon": "media/icon.jpg?2",
+                        "courseid": 9
+                },
+                {
+                        "Name": "Government",
+                        "Pathname": "Government_waec",
+                        "description": "Past Question on Government",
+                        "icon": "media/icon.jpg?2",
+                        "courseid": 10
+                },
+                {
+                        "Name": "Literature",
+                        "Pathname": "Literature_waec",
+                        "description": "Past Question on  Literature",
+                        "icon": "media/icon.png?2",
+                        "courseid": 11
+                },
+                {
+                        "Name": "Mathematics",
+                        "Pathname": "Mathematics_waec",
+                        "description": "Past Question on  Mathematics",
+                        "icon": "media/icon.png?2",
+                        "courseid": 12  
+                },
+                {
+                        "Name": "Physics",
+                        "Pathname": "Physics_waec",
+                        "description": "Past Question on Physics",
+                        "icon": "media/icon.png?2",
+                        "courseid": 13
+                }
+                
+        ]
+        
+     }

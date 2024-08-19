@@ -1,0 +1,13 @@
+ {
+"Name": "Agric Jamb",
+	"Pathname": "Agric_jamb",
+	"description": "Past Question on Biology for Jamb Examination for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"courseid": 1,
+	"Author": "Soligbo Emmanuel",
+ "years":[2010,2011,2012,2013,2015,2019,2021,2022,2023],
+ "examtype":[ ],
+ "topics":[ ]
+ }

@@ -1,0 +1,13 @@
+ {
+"Name": "English Studies",
+	"Pathname": "english_waec",
+	"description": "Past Question on Chemistry for Jamb Examination for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+	"courseid": 7,
+ "years":[2012,2013,2014,2015,2016,2018,2020],
+ "examtype":[ ],
+ "topics":[ ]
+ }

@@ -1,0 +1,28 @@
+{
+    "faq" :[
+        {
+          "title": "What is Learn Beta?",
+          "message": "Learn Beta is an elearning, exam preparation and testing platform that helps student in high school study and  prepare for  examination  from the comfort of their mobile device or computer. Students are provided with study notes, videos, mock questions, answers, analytical solutions, an opportunity to simulate the exam electronically, compete with fellow exam mates and finally, track progress and be the best."
+        },
+        {
+            "title": "What is the cost of this service?",
+            "message": "Learn Beta comes in flexible plans: N1,000 per Month for the activation pins and it contents all your past question and study notes(Key points for your Exam)"
+        },
+        {
+            "title": "What are the supported devices?",
+            "message": "Data enabled device including  Android, BlackBerry and iOS phones. Desktop computers or laptops."
+        },
+        {
+            "title": "Will I get renewed?",
+            "message": "You will renewed the App after your subscription expires, but you may not need that since you may be at the university when the App will expire."
+        },
+        {
+            "title": " Will my service continue if I change my handset or mobile number?",
+            "message": "No, the service activation works on one devices at a time. This is to prevent fraud using on activation for multiple devices and activating for their friends and coursemate"
+        },
+        {
+            "title": "Can I get refund if I don't Like the service?",
+            "message": "We give you 12 Hours for you to use the services and return it for refunds else we will not accept refunds as it is a digital goods."
+        }
+      ]
+  }
