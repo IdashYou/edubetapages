@@ -37,6 +37,6 @@
   "enabledSubtypeOptions": true,
   "groupLink": "https://chat.whatsapp.com/LOe1r1yQKHVAcFkzsTztWk",
   "andriod_free": false,
-  "ios_free": false,
+  "ios_free": true,
   "showDisclaimerMsg": true
 }
