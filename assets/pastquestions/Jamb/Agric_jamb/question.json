@@ -898,7 +898,7 @@
 		},
 		{
 			"instruction": "",
-			"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Agric_jamb/agricpic/2013/Q35.PNG\" /></p>\n<p>Use the diagram below to answer this question.</p>\n<p>The structure labeled I represents a</p>",
+			"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Agric_jamb/agricpic/2013/Q35.PNG\" /></p>\n<p>Use the diagram below to answer this question.</p>\n<p>The structure labeled I represents a</p>",
 			"optiona": "root tuber",
 			"optionb": "groundnut",
 			"optionc": "root nodule",
@@ -912,7 +912,7 @@
 		},
 		{
 			"instruction": "",
-			"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Agric_jamb/agricpic/2013/Q36.PNG\" /></p>\n<p>Use the diagram below to this answer this question.</p>\n<p>This type of root is associated with</p>",
+			"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Agric_jamb/agricpic/2013/Q36.PNG\" /></p>\n<p>Use the diagram below to this answer this question.</p>\n<p>This type of root is associated with</p>",
 			"optiona": "nitrogen fixation",
 			"optionb": " photosynthesis",
 			"optionc": "storage of organic acids",

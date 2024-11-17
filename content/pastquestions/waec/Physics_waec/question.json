@@ -1,7 +1,7 @@
 {
 	"questions": [{
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q1.PNG\" /></p>\n<p>Two magnets are used to magnetize a soft iron bar PQ as illustrated in the diagram given. The correct polarity at P and Q respectively</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q1.PNG\" /></p>\n<p>Two magnets are used to magnetize a soft iron bar PQ as illustrated in the diagram given. The correct polarity at P and Q respectively</p>",
 		"optiona": "S and N         ",
 		"optionb": "N and N    ",
 		"optionc": "S and S    ",
@@ -131,7 +131,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q11.PNG\" /></p>\n<p>Two capacitors $C_1$&nbsp;and$C_2$&nbsp;are connected as shown in the diagram. The capacitance $C_2$&nbsp;is twice C1&nbsp;when the key is opened the energy stored up in $C_1$&nbsp;is W. If the key is later closed and the system is allowed to attain electrical equilibrium, the total energy stored in the system will be</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q11.PNG\" /></p>\n<p>Two capacitors $C_1$&nbsp;and$C_2$&nbsp;are connected as shown in the diagram. The capacitance $C_2$&nbsp;is twice C1&nbsp;when the key is opened the energy stored up in $C_1$&nbsp;is W. If the key is later closed and the system is allowed to attain electrical equilibrium, the total energy stored in the system will be</p>",
 		"optiona": "1/2W",
 		"optionb": "2/3W",
 		"optionc": "W",
@@ -144,7 +144,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q12.PNG\" /></p>\n<p>&nbsp;In which of the points labelled A, B, C, D and E on the conductor shown would electric charge tend to concentrate most?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q12.PNG\" /></p>\n<p>&nbsp;In which of the points labelled A, B, C, D and E on the conductor shown would electric charge tend to concentrate most?</p>",
 		"optiona": "A",
 		"optionb": "B",
 		"optionc": "C",
@@ -170,7 +170,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q14.PNG\" /></p>\n<p>Using the data in the circuit illustrated above, calculate the value of R</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q14.PNG\" /></p>\n<p>Using the data in the circuit illustrated above, calculate the value of R</p>",
 		"optiona": "0.02 Ω",
 		"optionb": "0.05 Ω",
 		"optionc": "5.00 Ω",
@@ -196,7 +196,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q16.PNG\" /></p>\n<p>In the circuit above R is a resistor whose resistance increases with increases with increase in temperature$&nbsp;L_1$and $L_2$&nbsp;are identical lamps. If the temperature of R increases</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q16.PNG\" /></p>\n<p>In the circuit above R is a resistor whose resistance increases with increases with increase in temperature$&nbsp;L_1$and $L_2$&nbsp;are identical lamps. If the temperature of R increases</p>",
 		"optiona": "L1 becomes brighter and L2 becomes dimmer",
 		"optionb": " L1 becomes brighter and L2 does not change",
 		"optionc": "L2 becomes dimmer and L1 does not change",
@@ -222,7 +222,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q18.PNG\" /></p>\n<p>The diagram above shows a current carrying wire between the poles of a magnet. In which direction would the wire tend to move?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q18.PNG\" /></p>\n<p>The diagram above shows a current carrying wire between the poles of a magnet. In which direction would the wire tend to move?</p>",
 		"optiona": "into the paper",
 		"optionb": "out of the paper",
 		"optionc": "towargs the north pole of the magnet",
@@ -313,7 +313,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q25.PNG\" /></p>\n<p>Which of the following statements is true of the diagram shown above?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q25.PNG\" /></p>\n<p>Which of the following statements is true of the diagram shown above?</p>",
 		"optiona": "the two point, A and B are in phase",
 		"optionb": "distance AB is half the wavelength of the wave",
 		"optionc": "AC and BD are the amplitude of the wave",
@@ -365,7 +365,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q29.PNG\" /></p>\n<p>If the frequency of the e.m.f. source in the a.c. circuit illustrated above is&nbsp;500/&pi;Hz. What is the reactance of the inductor?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q29.PNG\" /></p>\n<p>If the frequency of the e.m.f. source in the a.c. circuit illustrated above is&nbsp;500/&pi;Hz. What is the reactance of the inductor?</p>",
 		"optiona": "450",
 		"optionb": " 0.9",
 		"optionc": "900",
@@ -430,7 +430,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q34.PNG\" /></p>\n<p>The diagram above shows the position of a simple pendulum set in motion. At which of the positions does the pendulum have maximum kinetic energy?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q34.PNG\" /></p>\n<p>The diagram above shows the position of a simple pendulum set in motion. At which of the positions does the pendulum have maximum kinetic energy?</p>",
 		"optiona": "4",
 		"optionb": "5",
 		"optionc": "3",
@@ -482,7 +482,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q38.PNG\" /></p>\n<p>The diagram represents a block-and-tackle pulley system on which an effort of 50N is just able to lift a load of weight W. If the efficiency of the machine is 40%. find the value of W</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q38.PNG\" /></p>\n<p>The diagram represents a block-and-tackle pulley system on which an effort of 50N is just able to lift a load of weight W. If the efficiency of the machine is 40%. find the value of W</p>",
 		"optiona": "300N",
 		"optionb": "200N",
 		"optionc": " 140N",
@@ -508,7 +508,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q40.PNG\" /></p>\n<p>The diagram above represents six maximum and minimum thermometer. If the temperature of the surrounding falls, which of the following correctly states how the thermometer would respond to the change in temperature?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q40.PNG\" /></p>\n<p>The diagram above represents six maximum and minimum thermometer. If the temperature of the surrounding falls, which of the following correctly states how the thermometer would respond to the change in temperature?</p>",
 		"optiona": "S1, would move upward but S2 would not move",
 		"optionb": "S1 would not move but S2 would move upwards",
 		"optionc": "both S1 and S2 would move upwards",
@@ -547,7 +547,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/Physics_waec/physicspic/2012/Q43.PNG\" /></p>\n<p>The set-up illustrated above shows a capillary tube of uniform cross-sectional area in two different arrangements. Using the data in the diagrams. Calculate the pressure of the atmosphere</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/Physics_waec/physicspic/2012/Q43.PNG\" /></p>\n<p>The set-up illustrated above shows a capillary tube of uniform cross-sectional area in two different arrangements. Using the data in the diagrams. Calculate the pressure of the atmosphere</p>",
 		"optiona": "76cm of Hg",
 		"optionb": "75cm of Hg",
 		"optionc": "74cm of Hg",
@@ -2862,7 +2862,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q35.PNG\" /></p>\n<p>The diagram above shows a velocity - time graph.&nbsp; The statement that is true about this motion is that the car</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q35.PNG\" /></p>\n<p>The diagram above shows a velocity - time graph.&nbsp; The statement that is true about this motion is that the car</p>",
 		"optiona": "has no acceleration between point F and G",
 		"optionb": " decelerates between F and H",
 		"optionc": "has a constant soeed between points E and F",
@@ -2875,7 +2875,7 @@
 		"examtype": -1
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q36.PNG\" /></p>\n<p>The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q36.PNG\" /></p>\n<p>The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?</p>",
 		"optiona": "III, IV and VIII",
 		"optionb": "II, V and VIII",
 		"optionc": "III, VI and IX",
@@ -2953,7 +2953,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>The diagram above shows a balanced metre bridge, the value of x is</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>The diagram above shows a balanced metre bridge, the value of x is</p>",
 		"optiona": "75.0 cm",
 		"optionb": "66.7 cm",
 		"optionc": "33.3 cm",
@@ -2979,7 +2979,7 @@
 		"examtype": -1
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is</p>",
 		"optiona": "N1,920.00",
 		"optionb": "N192.00",
 		"optionc": " N19.20",
@@ -2992,7 +2992,7 @@
 		"examtype": -1
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q45.PNG\" /></p>\n<p>In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q45.PNG\" /></p>\n<p>In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be</p>",
 		"optiona": "south and north",
 		"optionb": "north and south",
 		"optionc": "north and north",

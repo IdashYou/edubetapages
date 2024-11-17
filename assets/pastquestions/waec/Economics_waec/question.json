@@ -2511,7 +2511,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Economics_jamb/econspic/2010/Q3.PNG\" /></p>\n<p>What is the population growth rate in 2003?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Economics_jamb/econspic/2010/Q3.PNG\" /></p>\n<p>What is the population growth rate in 2003?</p>",
 		"optiona": "33.3%",
 		"optionb": "20.0%",
 		"optionc": "11.0%",
@@ -2524,7 +2524,7 @@
 		"examtype": -1
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Economics_jamb/econspic/2010/Q4.PNG\" /></p>\n<p>The percentage of working population in 2002 is</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Economics_jamb/econspic/2010/Q4.PNG\" /></p>\n<p>The percentage of working population in 2002 is</p>",
 		"optiona": "50%",
 		"optionb": "25%",
 		"optionc": "8%",

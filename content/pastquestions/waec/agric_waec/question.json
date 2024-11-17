@@ -3160,7 +3160,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/agric_waec/agricpic/2016/Q24.PNG\" /></p>\n<p>Study the diagram above and answer the question below.</p>\n<p>The farm tool associated with the diagram above is</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/agric_waec/agricpic/2016/Q24.PNG\" /></p>\n<p>Study the diagram above and answer the question below.</p>\n<p>The farm tool associated with the diagram above is</p>",
 		"optiona": " Knife",
 		"optionb": "Secateurs",
 		"optionc": "Shears",
@@ -3173,7 +3173,7 @@
 		"examtype": -1
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/agric_waec/agricpic/2016/Q25.PNG\" /></p>\n<p>Study the diagram above and answer this question.</p>\n<p>The crop associated with the diagram above is</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/agric_waec/agricpic/2016/Q25.PNG\" /></p>\n<p>Study the diagram above and answer this question.</p>\n<p>The crop associated with the diagram above is</p>",
 		"optiona": "Theobroma cacao",
 		"optionb": "Zingiber officinale",
 		"optionc": " Hevea brasiliensis",
@@ -3329,7 +3329,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/agric_waec/agricpic/2016/Q37.PNG\" /></p>\n<p>The diagram above shows parts of a plough. Study it and answer this question.</p>\n<p>Which of the following functions is not associated with the part labelled I?</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/agric_waec/agricpic/2016/Q37.PNG\" /></p>\n<p>The diagram above shows parts of a plough. Study it and answer this question.</p>\n<p>Which of the following functions is not associated with the part labelled I?</p>",
 		"optiona": "Inverting of furrow slice",
 		"optionb": "Cutting through soil",
 		"optionc": "Pulverizing of the slice in some ploughs",
@@ -3342,7 +3342,7 @@
 		"examtype": -1
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/agric_waec/agricpic/2016/Q38.PNG\" /></p>\n<p>The diagram above shows parts of a plough. Study it and answer this question.</p>\n<p>The function of the part labeled II is that it</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/agric_waec/agricpic/2016/Q38.PNG\" /></p>\n<p>The diagram above shows parts of a plough. Study it and answer this question.</p>\n<p>The function of the part labeled II is that it</p>",
 		"optiona": "makes vertical cuts",
 		"optionb": "makes horizontal cuts",
 		"optionc": " inverts the furrow slice",
@@ -3433,7 +3433,7 @@
 		"examtype": 0
 	}, {
 		"instruction": "",
-		"question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/waec/agric_waec/agricpic/2016/Q45.PNG\" /></p>\n<p>The diagram above shows parts of a plough. Study it and answer this question.</p>\n<p>The part labelled II is the</p>",
+		"question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/waec/agric_waec/agricpic/2016/Q45.PNG\" /></p>\n<p>The diagram above shows parts of a plough. Study it and answer this question.</p>\n<p>The part labelled II is the</p>",
 		"optiona": "wheel",
 		"optionb": "plough share",
 		"optionc": " handle",

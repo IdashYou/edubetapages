@@ -618,7 +618,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2006/exam/Q45.PNG\" /></p>\n<p>The diagram above represents the stress-strain graph for a typical metal rod. What does the X represent</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2006/exam/Q45.PNG\" /></p>\n<p>The diagram above represents the stress-strain graph for a typical metal rod. What does the X represent</p>",
       "optiona": "Breaking point",
       "optionb": "Yield point",
       "optionc": "Elastic limit",
@@ -632,7 +632,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2006/exam/Q46.PNG\" /></p>\n<p>In the diagram above, the pressure of the gas is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2006/exam/Q46.PNG\" /></p>\n<p>In the diagram above, the pressure of the gas is</p>",
       "optiona": "86 cm of mercury",
       "optionb": "66 cm of mercury",
       "optionc": "96 cm of mercury",
@@ -1038,7 +1038,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q25.PNG\" /></p>\n<p>The figure above shows 4 forces 3N, 10N, 3&radic;3N and 6N acting on a particle P. The resultant of he four forces is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q25.PNG\" /></p>\n<p>The figure above shows 4 forces 3N, 10N, 3&radic;3N and 6N acting on a particle P. The resultant of he four forces is</p>",
       "optiona": "5N",
       "optionb": "5√ 3N",
       "optionc": " 10N",
@@ -1052,7 +1052,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q26.PNG\" /></p>\n<p>From the diagram above, the bob of the pendulum has the fastest speed at</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q26.PNG\" /></p>\n<p>From the diagram above, the bob of the pendulum has the fastest speed at</p>",
       "optiona": "X",
       "optionb": "Y",
       "optionc": "Z",
@@ -1066,7 +1066,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q27.PNG\" /></p>\n<p>In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q27.PNG\" /></p>\n<p>In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?</p>",
       "optiona": "40N",
       "optionb": "80N",
       "optionc": "120N",
@@ -1136,7 +1136,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q32.PNG\" /></p>\n<p>Three cells each of e.m.f 1.5 V and internal resistance 2.5&Omega; are connected as shown in the diagram above. Find the net e.m.f and the internal resistance</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q32.PNG\" /></p>\n<p>Three cells each of e.m.f 1.5 V and internal resistance 2.5&Omega; are connected as shown in the diagram above. Find the net e.m.f and the internal resistance</p>",
       "optiona": "1.5V, 7.50Ω",
       "optionb": "1,5V, 0.83Ω",
       "optionc": "4.5V, 7.50Ω",
@@ -1150,7 +1150,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q33.PNG\" /></p>\n<p>In the diagram above , if the magnetic field points into the paper and the force on a current - carrying conductor points upwards, what is the direction of the current?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q33.PNG\" /></p>\n<p>In the diagram above , if the magnetic field points into the paper and the force on a current - carrying conductor points upwards, what is the direction of the current?</p>",
       "optiona": "Upwards",
       "optionb": "Downwards",
       "optionc": "Right",
@@ -1192,7 +1192,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q36.PNG\" /></p>\n<p>from the diagram above, the inductive reactance and the resistance R are respectively</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2007/exam/Q36.PNG\" /></p>\n<p>from the diagram above, the inductive reactance and the resistance R are respectively</p>",
       "optiona": "50Ω and 45Ω",
       "optionb": "25Ω and 51Ω",
       "optionc": "20Ω and 50Ω",
@@ -1962,7 +1962,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q41.PNG\" /></p>\n<p>The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q41.PNG\" /></p>\n<p>The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N</p>",
       "optiona": "275N",
       "optionb": "325N",
       "optionc": "375N",
@@ -1976,7 +1976,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q42.PNG\" /></p>\n<p>The diagram above is the heating curve for a solid QR is the</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q42.PNG\" /></p>\n<p>The diagram above is the heating curve for a solid QR is the</p>",
       "optiona": "melting region",
       "optionb": "boiling region",
       "optionc": "sublimation region",
@@ -1990,7 +1990,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q43.PNG\" /></p>\n<p>The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q43.PNG\" /></p>\n<p>The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction</p>",
       "optiona": "parallel to OX",
       "optionb": "parallel to OY",
       "optionc": "$60^o$ to OX",
@@ -2004,7 +2004,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q44.PNG\" /></p>\n<p>If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q44.PNG\" /></p>\n<p>If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?</p>",
       "optiona": "10 cm",
       "optionb": " 15 cm",
       "optionc": "20 cm",
@@ -2018,7 +2018,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q46.PNG\" /></p>\n<p>Find the effective resistance in the diagram above</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q46.PNG\" /></p>\n<p>Find the effective resistance in the diagram above</p>",
       "optiona": "6 Ω",
       "optionb": "12 Ω",
       "optionc": "18 Ω",
@@ -2032,7 +2032,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q47.PNG\" /></p>\n<p>Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2008/exam/Q47.PNG\" /></p>\n<p>Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is</p>",
       "optiona": "0.35mH",
       "optionb": "3.50mH",
       "optionc": "2.90mH",
@@ -2634,7 +2634,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2009/exam/Q43.PNG\" /></p>\n<p>The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2009/exam/Q43.PNG\" /></p>\n<p>The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is</p>",
       "optiona": "$20 Nm^{-1}$",
       "optionb": "$40 Nm^{-1}$",
       "optionc": "$30 Nm^{-1}$",
@@ -2662,7 +2662,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2009/exam/Q45.PNG\" /></p>\n<p>Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2009/exam/Q45.PNG\" /></p>\n<p>Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible</p>",
       "optiona": " 12 V",
       "optionb": "8 V",
       "optionc": "2 V",
@@ -2676,7 +2676,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2009/exam/Q46.PNG\" /></p>\n<p>From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2009/exam/Q46.PNG\" /></p>\n<p>From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is</p>",
       "optiona": "116.3 V",
       "optionb": "50.0 V",
       "optionc": "230.0 V",
@@ -3208,7 +3208,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q35.PNG\" /></p>\n<p>The diagram above shows a velocity - time graph.&nbsp; The statement that is true about this motion is that the car</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q35.PNG\" /></p>\n<p>The diagram above shows a velocity - time graph.&nbsp; The statement that is true about this motion is that the car</p>",
       "optiona": "has no acceleration between point F and G",
       "optionb": " decelerates between F and H",
       "optionc": "has a constant soeed between points E and F",
@@ -3222,7 +3222,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q36.PNG\" /></p>\n<p>The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q36.PNG\" /></p>\n<p>The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?</p>",
       "optiona": "III, IV and VIII",
       "optionb": "II, V and VIII",
       "optionc": "III, VI and IX",
@@ -3306,7 +3306,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>The diagram above shows a balanced metre bridge, the value of x is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>The diagram above shows a balanced metre bridge, the value of x is</p>",
       "optiona": "75.0 cm",
       "optionb": "66.7 cm",
       "optionc": "33.3 cm",
@@ -3334,7 +3334,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q44.PNG\" /></p>\n<p>In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is</p>",
       "optiona": "N1,920.00",
       "optionb": "N192.00",
       "optionc": " N19.20",
@@ -3348,7 +3348,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q45.PNG\" /></p>\n<p>In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2010/exam/Q45.PNG\" /></p>\n<p>In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be</p>",
       "optiona": "south and north",
       "optionb": "north and south",
       "optionc": "north and north",
@@ -3950,7 +3950,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2011/exam/Q40.PNG\" /></p>\n<p>The diagram above shows two vectors at right angles to each other. The value of the resultant vector is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2011/exam/Q40.PNG\" /></p>\n<p>The diagram above shows two vectors at right angles to each other. The value of the resultant vector is</p>",
       "optiona": "14.0 N",
       "optionb": "10.0 N",
       "optionc": "12.0 N",
@@ -3964,7 +3964,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2011/exam/Q41.PNG\" /></p>\n<p>The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2011/exam/Q41.PNG\" /></p>\n<p>The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as</p>",
       "optiona": "Z only",
       "optionb": "X only",
       "optionc": "Y and Z",
@@ -4020,7 +4020,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2011/exam/Q45.PNG\" /></p>\n<p>In the circuit above, three resistors, 2&Omega;, 4&Omega; and 12&Omega; are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12&Omega; resistors is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2011/exam/Q45.PNG\" /></p>\n<p>In the circuit above, three resistors, 2&Omega;, 4&Omega; and 12&Omega; are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12&Omega; resistors is</p>",
       "optiona": "14.4 A",
       "optionb": "1.0 A",
       "optionc": "3.2 A",
@@ -7198,7 +7198,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q44.PNG\" /></p><p>In the diagram above, which of the following&nbsp; velocity-time graphs shows uniform acceleration of a body from rest?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q44.PNG\" /></p><p>In the diagram above, which of the following&nbsp; velocity-time graphs shows uniform acceleration of a body from rest?</p>",
       "optiona": "C",
       "optionb": "D",
       "optionc": "B",
@@ -7212,7 +7212,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q45.PNG\" /></p>\n<p>In the diagram above, the neutral point is at</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q45.PNG\" /></p>\n<p>In the diagram above, the neutral point is at</p>",
       "optiona": "R",
       "optionb": "X",
       "optionc": "S",
@@ -7226,7 +7226,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q46.PNG\" /></p>\n<p>From the diagram above, the measuring accuracy of the micrometer screw gauge is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q46.PNG\" /></p>\n<p>From the diagram above, the measuring accuracy of the micrometer screw gauge is</p>",
       "optiona": "4.78mm",
       "optionb": "4.16mm",
       "optionc": "4.66mm",
@@ -7240,7 +7240,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q45.PNG\" /></p>\n<p>In the diagram above, the direction of the force between N and S in the magnetic field is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2016/exam/Q45.PNG\" /></p>\n<p>In the diagram above, the direction of the force between N and S in the magnetic field is</p>",
       "optiona": "MP",
       "optionb": "SN",
       "optionc": "NS",
@@ -7576,7 +7576,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2017/exam/Q21.PNG\" /></p>\n<p>The net capacitance in the circuit above is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2017/exam/Q21.PNG\" /></p>\n<p>The net capacitance in the circuit above is</p>",
       "optiona": "80µF",
       "optionb": "6.0µF",
       "optionc": "4.0µF",
@@ -7688,7 +7688,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2017/exam/Q30.PNG\" /></p>\n<p>From the diagram above, calculate the energy stored in the capacitor</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2017/exam/Q30.PNG\" /></p>\n<p>From the diagram above, calculate the energy stored in the capacitor</p>",
       "optiona": "$4.0 x 10^-2 J$",
       "optionb": "$4.0 x 10^-6 J$",
       "optionc": "$8.0 x 10^-4 J$",
@@ -7926,7 +7926,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2019/exam/Q6.PNG\" /></p>\n<p>The value of T in the figure above is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2019/exam/Q6.PNG\" /></p>\n<p>The value of T in the figure above is</p>",
       "optiona": "30N",
       "optionb": "10.0N",
       "optionc": "20N",
@@ -8164,7 +8164,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2019/exam/Q23.PNG\" /></p>\n<p>The diagram above represents the stress-strain graph of a loaded wire. Which of these statements is correct?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2019/exam/Q23.PNG\" /></p>\n<p>The diagram above represents the stress-strain graph of a loaded wire. Which of these statements is correct?</p>",
       "optiona": "At J, the wire becomes plasctic",
       "optionb": "J is the yield point",
       "optionc": "L is the elastic limit",
@@ -8500,7 +8500,7 @@
     },
     {
       "instruction": "",
-      "question": "<p>&nbsp;</p>\n<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q6.PNG\" /></p>\n<p>What is the resultant resistance of the circuit in the image shown?</p>",
+      "question": "<p>&nbsp;</p>\n<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q6.PNG\" /></p>\n<p>What is the resultant resistance of the circuit in the image shown?</p>",
       "optiona": "8Ω",
       "optionb": "11Ω",
       "optionc": "4Ω",
@@ -8556,7 +8556,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q10.PNG\" /></p>\n<p>The diagram shown represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40, then the value of W is?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q10.PNG\" /></p>\n<p>The diagram shown represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40, then the value of W is?</p>",
       "optiona": "28.0",
       "optionb": "48.0N",
       "optionc": "233.0N",
@@ -8640,7 +8640,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q16.PNG\" /></p>\n<p>In the diagram given the hanging mass&nbsp;$m_2$&nbsp;is adjusted until $m_1$&nbsp;is on the verge of sliding. The coefficient of static</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q16.PNG\" /></p>\n<p>In the diagram given the hanging mass&nbsp;$m_2$&nbsp;is adjusted until $m_1$&nbsp;is on the verge of sliding. The coefficient of static</p>",
       "optiona": "${m_1}/{m_2}$",
       "optionb": "${m_1g}/{m_2}$",
       "optionc": "${m_2}/{m_1}$",
@@ -8668,7 +8668,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q18.PNG\" /></p>\n<p>In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q18.PNG\" /></p>\n<p>In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is</p>",
       "optiona": "660mm",
       "optionb": "890mm",
       "optionc": "690mm",
@@ -8780,7 +8780,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q26.PNG\" /></p>\n<p>In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation?</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q26.PNG\" /></p>\n<p>In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation?</p>",
       "optiona": "U",
       "optionb": "T",
       "optionc": "R and T",
@@ -8892,7 +8892,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q34.PNG\" /></p>\n<p>In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q34.PNG\" /></p>\n<p>In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be</p>",
       "optiona": "north and south",
       "optionb": "south and south",
       "optionc": "north and north",
@@ -8948,7 +8948,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q38.PNG\" /></p>\n<p>Calculate the effective capacitance of the circuit in the diagram given</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q38.PNG\" /></p>\n<p>Calculate the effective capacitance of the circuit in the diagram given</p>",
       "optiona": "4μf",
       "optionb": "3μf",
       "optionc": "2μf",
@@ -8963,9 +8963,9 @@
     {
       "instruction": "",
       "question": "<p>Which of the following diagrams represents correctly an n-p-n transistor?</p>",
-      "optiona": "i<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q39A.PNG\" /></p>\n",
-      "optionb": "ii<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q39B.PNG\" /></p>\n",
-      "optionc": "iii<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q39C.PNG\" /></p>",
+      "optiona": "i<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q39A.PNG\" /></p>\n",
+      "optionb": "ii<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q39B.PNG\" /></p>\n",
+      "optionc": "iii<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2018/exam/Q39C.PNG\" /></p>",
       "optiond": "",
       "optione": "",
       "correction": "",
@@ -9214,7 +9214,7 @@
     },
     {
       "instruction": "",
-      "question": "<p><img style=\"max-width: 100%;\" src=\"assets/pastquestions/Jamb/Physics_jamb/physicspic/2017/exam/Q45.PNG\" /></p>\n<p>From the diagram above, calculate the total current in the circuit</p>",
+      "question": "<p><img style=\"max-width: 100%;\" src=\"/assets/pastquestions/Jamb/Physics_jamb/physicspic/2017/exam/Q45.PNG\" /></p>\n<p>From the diagram above, calculate the total current in the circuit</p>",
       "optiona": "5.0A",
       "optionb": "3.7A",
       "optionc": " 4.5A",
