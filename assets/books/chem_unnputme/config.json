@@ -1,0 +1,322 @@
+ {
+	"id": "3",
+	"Name": "Chemistry",
+	"Pathname": "chem_unnputme",
+	"pqpath": "Chemistry_putmeunn",
+	"description": "A summary on chemistry",
+	"icon": "media/icon.png?3",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+ 
+	"chapters":[
+	
+		{
+		   "Topicname": "Introduction of chemistry",
+			"Topiclocation": "chapter1.html",
+			"pqindex": "-1",
+			"topicid": "1"
+		 },
+		 {
+			"Topicname": "Particulate Nature of Matter",
+			"Topiclocation": "chapter2.html",
+			"pqindex": "-1",
+			"topicid": "2"
+			 
+		 },	
+		 {
+			"Topicname": "Basic Seperation Techniques",
+			 "Topiclocation": "chapter3.html",
+			 "pqindex": "-1",
+			 "topicid": "3"
+		  },
+		  {
+			 "Topicname": "Basic Concept of Chemsitry",
+			 "Topiclocation": "chapter4.html",
+			 "pqindex": "-1",
+			 "topicid": "4"
+			  
+		  },
+		  {
+			 "Topicname": "Laws Of Chemistry Combinations",
+			  "Topiclocation": "chapter5.html",
+			  "pqindex": "-1",
+			  "topicid": "5"
+		   },
+		   {
+			  "Topicname": "Percentage Yield",
+			  "Topiclocation": "chapter6.html",
+			  "pqindex": "-1",
+			  "topicid": "6"
+			   
+		   },	
+		   {
+			  "Topicname": "Chemical Bonding",
+			   "Topiclocation": "chapter7.html",
+			   "pqindex": "-1",
+			   "topicid": "7"
+			},
+			{
+			   "Topicname": "Electronic Configuration",
+			   "Topiclocation": "chapter8.html",
+			   "pqindex": "-1",
+			   "topicid": "8"
+				
+			},	
+			{
+			   "Topicname": "Gas Law I",
+				"Topiclocation": "chapter9.html",
+				"pqindex": "-1",
+				"topicid": "9"
+			 },
+			 {
+				"Topicname": "Gas Law II",
+				"Topiclocation": "chapter10.html",
+				"pqindex": "-1",
+				"topicid": "10"
+				 
+			 },	
+			 {
+				"Topicname": "Mass Volume Relationship",
+				 "Topiclocation": "chapter11.html",
+				 "pqindex": "-1",
+				 "topicid": "11"
+			  },
+			  {
+				 "Topicname": "Acids, Bases and Salt",
+				 "Topiclocation": "chapter12.html",
+				 "pqindex": "-1",
+				 "topicid": "12"
+				  
+			  },
+			  {
+				 "Topicname": "Carbon and Its Compounds",
+				 "Topiclocation": "chapter13.html",
+				 "pqindex": "-1",
+				 "topicid": "13"
+				  
+			  },
+			  {
+				 "Topicname": "Hydrocarbon and Crude Oil",
+				 "Topiclocation": "chapter14.html",
+				 "pqindex": "-1",
+				 "topicid": "14"
+				  
+			  },	
+			  {
+				 "Topicname": "Volumetric (Quantitative) Analysis",
+				  "Topiclocation": "chapter15.html",
+				  "pqindex": "-1",
+				  "topicid": "15"
+			   },
+			   {
+				  "Topicname": "Periodic Table",
+				  "Topiclocation": "chapter16.html",
+				  "pqindex": "-1",
+				  "topicid": "16"
+				   
+			   },
+			   {
+				  "Topicname": "Periodic Table II",
+				  "Topiclocation": "chapter17.html",
+				  "pqindex": "-1",
+				  "topicid": "17"
+				   
+			   },
+			   {
+				  "Topicname": "Chemical Reactions and Heat of Reaction",
+				  "Topiclocation": "chapter18.html",
+				  "pqindex": "-1",
+				  "topicid": "18"
+				   
+			   },
+			   {
+				  "Topicname": "Chemical Equilibrum",
+				  "Topiclocation": "chapter19.html",
+				  "pqindex": "-1",
+				  "topicid": "19"
+				   
+			   },
+			   {
+				  "Topicname": "Solution, Solubility and Molality",
+				  "Topiclocation": "chapter20.html",
+				  "pqindex": "-1",
+				  "topicid": "20"
+				   
+			   },{
+				"Topicname": "Acid Base II",
+				 "Topiclocation": "chapter21.html",
+				 "pqindex": "-1",
+				 "topicid": "21"
+			  },
+			  {
+				 "Topicname": "Water",
+				 "Topiclocation": "chapter22.html",
+				 "pqindex": "-1",
+				 "topicid": "22"
+				  
+			  },
+			  {
+				 "Topicname": "Hydrogen",
+				 "Topiclocation": "chapter23.html",
+				 "pqindex": "-1",
+				 "topicid": "23"
+				  
+			  },
+			  {
+				 "Topicname": "Halogens",
+				 "Topiclocation": "chapter24.html",
+				 "pqindex": "-1",
+				 "topicid": "24"
+				  
+			  },	
+			  {
+				 "Topicname": "Nitrogen",
+				  "Topiclocation": "chapter25.html",
+				  "pqindex": "-1",
+				  "topicid": "25"
+			   },
+			   {
+				  "Topicname": "Sulphur",
+				  "Topiclocation": "chapter26.html",
+				  "pqindex": "-1",
+				  "topicid": "26"
+				   
+			   },
+			   {
+				  "Topicname": "Redox Reactions",
+				  "Topiclocation": "chapter27.html",
+				  "pqindex": "-1",
+				  "topicid": "27"
+				   
+			   },
+			   {
+				  "Topicname": "Electrochemical Cells",
+				  "Topiclocation": "chapter28.html",
+				  "pqindex": "-1",
+				  "topicid": "28"
+				   
+			   },
+			   {
+				  "Topicname": "Electrolysis",
+				  "Topiclocation": "chapter29.html",
+				  "pqindex": "-1",
+				  "topicid": "29"
+				   
+			   },
+			   {
+				  "Topicname": "Introduction to organic Chemistry",
+				  "Topiclocation": "chapter30.html",
+				  "pqindex": "-1",
+				  "topicid": "30"
+				   
+			   },{
+				"Topicname": "Hydrocarbon",
+				 "Topiclocation": "chapter31.html",
+				 "pqindex": "-1",
+				 "topicid": "31"
+			  },
+			  {
+				 "Topicname": "Alcohol",
+				 "Topiclocation": "chapter32.html",
+				 "pqindex": "-1",
+				 "topicid": "32"
+				  
+			  },
+			  {
+				 "Topicname": "Alkanoic (Carboxylic) Acids",
+				 "Topiclocation": "chapter33.html",
+				 "pqindex": "-1",
+				 "topicid": "33"
+				  
+			  },
+			  {
+				 "Topicname": "Esters",
+				 "Topiclocation": "chapter34.html",
+				 "pqindex": "-1",
+				 "topicid": "34"
+				  
+			  },	
+			  {
+				 "Topicname": "Fat and Oil",
+				  "Topiclocation": "chapter35.html",
+				  "pqindex": "-1",
+				  "topicid": "35"
+			   },
+			   {
+				  "Topicname": "Soap and Detergents",
+				  "Topiclocation": "chapter36.html",
+				  "pqindex": "-1",
+				  "topicid": "36"
+				   
+			   },
+			   {
+				  "Topicname": "Carbohydrate",
+				  "Topiclocation": "chapter37.html",
+				  "pqindex": "-1",
+				  "topicid": "37"
+				   
+			   },
+			   {
+				  "Topicname": "Proteins",
+				  "Topiclocation": "chapter38.html",
+				  "pqindex": "-1",
+				  "topicid": "38"
+				   
+			   },
+			   {
+				  "Topicname": "Polymers",
+				  "Topiclocation": "chapter39.html",
+				  "pqindex": "-1",
+				  "topicid": "39"
+				   
+			   },
+			   {
+				  "Topicname": "Metals and their compound I - Group I Metals",
+				  "Topiclocation": "chapter40.html",
+				  "pqindex": "-1",
+				  "topicid": "40"
+				   
+			   },{
+				"Topicname": "Metals and their compound II - Group II Metals",
+				 "Topiclocation": "chapter41.html",
+				 "pqindex": "-1",
+				 "topicid": "41"
+			  },
+			  {
+				 "Topicname": "Metals and their compound III- Other Special Metals",
+				 "Topiclocation": "chapter42.html",
+				 "pqindex": "-1",
+				 "topicid": "42"
+				  
+			  },
+			  {
+				 "Topicname": "Nuclear Chemistry",
+				 "Topiclocation": "chapter43.html",
+				 "pqindex": "-1",
+				 "topicid": "43"
+				  
+			  },
+			  {
+				 "Topicname": "Atomic Theory",
+				 "Topiclocation": "chapter44.html",
+				 "pqindex": "-1",
+				 "topicid": "44"
+				  
+			  },	
+			  {
+				 "Topicname": "Qualitative Analysis",
+				  "Topiclocation": "chapter45.html",
+				  "pqindex": "-1",
+				  "topicid": "45"
+			   },	
+			   {
+				  "Topicname": "Important Points in chemistry",
+				   "Topiclocation": "chapter46.html",
+				   "pqindex": "-1",
+				   "topicid": "46"
+				}
+		
+		
+		]
+ }

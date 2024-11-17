@@ -1,0 +1,94 @@
+{     
+         "statuscode":"100",
+        "statusmessage":"Retrive successfully",
+        "post": [
+                {
+                        "id": "2",
+                        "Name": "Biology Flash Notes",
+                        "tag": "biologyFlashNotes",
+                        "description": "A brief Summary on Biology",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/bioicon.png?3",
+                        "coursetag":[
+                                     {"displayname":"Biology SS1 ", "tagname":"biologyflashnotess1","topicgroups":"2"},
+                                     {"displayname":"Biology SS2 ", "tagname":"biologyflashnotess2","topicgroups":"2"},
+                                     {"displayname":"Biology SS3 (Jamb/SSCE Exam Revision)", "tagname":"biologyflashnotess3","topicgroups":"2"}
+                                   ]
+                },
+                {
+                        "id": "3",
+                        "Name": "Chemistry Flash Notes",
+                        "tag": "chemistryFlashNotes",
+                        "description": "A brief Summary on Chemsitry",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/chemicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Chemistry SS1 ", "tagname":"chemistryflashnotess1","topicgroups":"2"},
+                                {"displayname":"Chemistry SS2 ", "tagname":"chemistryflashnotess2","topicgroups":"2"},
+                                {"displayname":"Chemistry SS3 (Jamb/SSCE Exam Revision)", "tagname":"chemistryflashnotess3","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "11",
+                        "Name": "Physics Flash Notes",
+                        "tag": "physicsFlashNotes",
+                        "description": "A brief Summary on Physics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/phyicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Physics SS1 ", "tagname":"physicsflashnotess1","topicgroups":"2"},
+                                {"displayname":"Physics SS2 ", "tagname":"physicsflashnotess2","topicgroups":"2"},
+                                {"displayname":"Physics SS3 (Jamb/SSCE Exam Revision)", "tagname":"physicsflashnotess3","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "12",
+                        "Name": "Mathematics Flash Notes",
+                        "tag": "mathematicsFlashNotes",
+                        "description": "A brief Summary on Mathematics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/mathsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Mathematics SS1 ", "tagname":"mathematicsflashnotess1","topicgroups":"2"},
+                                {"displayname":"Mathematics SS2 ", "tagname":"mathematicsflashnotess2","topicgroups":"2"},
+                                {"displayname":"Mathematics SS3 (Jamb/SSCE Exam Revision)", "tagname":"mathematicsflashnotess3","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "07",
+                        "Name": "English Flash Notes",
+                        "tag": "englishFlashNotes",
+                        "description": "A brief Summary on English",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/englishicon.png?3",
+                        "coursetag":[
+                                {"displayname":"English SS1,2,3", "tagname":"englishFlashNotesall","topicgroups":"2"},
+                                {"displayname":"English Recent Uploaded FlashNotes", "tagname":"englishFlashNotesnew","topicgroups":"4"}
+                              ]
+                },
+                {
+                        "id": "06",
+                        "Name": "Economics Flash Notes",
+                        "tag": "economicsFlashNotes",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/econsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Economics SS1 ", "tagname":"economicsflashnotess1","topicgroups":"2"},
+                                {"displayname":"Economics SS2 ", "tagname":"economicsflashnotess2","topicgroups":"2"},
+                                {"displayname":"Economics SS3 (Jamb/SSCE Exam Revision)", "tagname":"economicsflashnotess3","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "10",
+                        "Name": "Government Flash Notes",
+                        "tag": "governmentFlashNotes",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/govicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Government SS1 ", "tagname":"governmentflashnotess1","topicgroups":"2"},
+                                {"displayname":"Government SS2 ", "tagname":"governmentflashnotess2","topicgroups":"2"},
+                                {"displayname":"Government SS3 (Jamb/SSCE Exam Revision)", "tagname":"governmentflashnotess3","topicgroups":"2"}
+                              ]
+                }
+             ],
+
+        "alertmessgae":"<b class='w3-text-red'>We appologise for the delay in updating/uploading Flash Notes, All FlashNotes courses will be updated by 10th of May, and will be in repect to your syllables, we will extend all our subscribers subscription by 2 weeks for those who subscribe before 10th of may for the inconvinence </b>",
+        "alertcolour":"pale-red",
+        "alertdisplay":1
+        
+        }

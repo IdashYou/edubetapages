@@ -1,0 +1,13 @@
+ {
+"Name": "IRK Jamb",
+	"Pathname": "IRK_Jamb",
+	"description": "Past Question on IRK for Jamb Examination for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"courseid": 5,
+	"Author": "Soligbo Emmanuel",
+ "years":[2018,2019,2020,2021,2022,2023],
+ "examtype":[ ],
+ "topics":[ ]
+ }

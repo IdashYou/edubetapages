@@ -1,0 +1,81 @@
+{
+        "statuscode":"100",
+        "statusmessage":"Retrive successfully",
+        "post": [
+                {
+                        "id": "2",
+                        "Name": "Biology Videos",
+                        "tag": "biologyvideo",
+                        "description": "A brief Summary on Biology",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/bioicon.png?3",
+                        "coursetag":[
+                                     {"displayname":"Biology All Videos", "tagname":"biologyvideoall","topicgroups":"2"}
+                                   ]
+                },
+                {
+                        "id": "3",
+                        "Name": "Chemistry Videos",
+                        "tag": "chemistryvideo",
+                        "description": "A brief Summary on Chemsitry",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/chemicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Chemistry All Videos", "tagname":"chemistryvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "11",
+                        "Name": "Physics Videos",
+                        "tag": "physicsvideo",
+                        "description": "A brief Summary on Physics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/phyicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Physics All Videos", "tagname":"physicsvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "12",
+                        "Name": "Mathematics Videos",
+                        "tag": "mathematicsvideo",
+                        "description": "A brief Summary on Mathematics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/mathsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Mathematics All Videos", "tagname":"mathematicsvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "07",
+                        "Name": "English Videos",
+                        "tag": "englishvideo",
+                        "description": "A brief Summary on English",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/englishicon.png?3",
+                        "coursetag":[
+                                {"displayname":"English SS1,2,3", "tagname":"englishvideoall","topicgroups":"4"}
+                              ]
+                },
+                {
+                        "id": "06",
+                        "Name": "Economics Videos",
+                        "tag": "economicsvideo",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/econsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Economics All Videos", "tagname":"economicsvideoall","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "10",
+                        "Name": "Government Videos",
+                        "tag": "governmentvideo",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/videoscoursesgroup/econsicon.png?3",
+                        "coursetag":[
+                                {"displayname":"Government All Videos", "tagname":"governmentvideoall","topicgroups":"2"}
+                              ]
+                }
+             ],
+
+        "alertmessgae":"<b class='w3-text-red'> Contact  +234 703 091 1579 to join our Learn Beta Whatsapp class.</b>",
+        "alertcolour":"pale-red",
+        "alertdisplay":1
+        
+        }

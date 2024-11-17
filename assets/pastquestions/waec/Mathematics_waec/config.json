@@ -1,0 +1,13 @@
+ {
+"Name": "Mathematics",
+	"Pathname": "Mathematics_waec",
+	"description": "Past Question on Mathematics for Jamb Examination for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+	"courseid": 12,
+ "years":[2012,2013,2014,2015,2016,2018,2020],
+ "examtype":["Jamb UTME", "Direct Entry"],
+ "topics":[ "Numbers and Numeration"," Number bases"," Modular Arithmetic"," Fractions"," Decimals and Approximations"," Indices"," Logarithms"," Sequence and Series"," Sets"," Logical Reasoning"," Positive and negative integers"," rational numbers"," Surds (Radicals)"," Matrices and Determinants"," Ratio"," Proportions and Rates"," Percentages"," Financial Arithmetic"," Variation"," ALGEBRAIC PROCESSES Algebraic expressions"," Simple operations on algebraic expressions"," Solution of Linear Equations"," Change of Subject of Formula/Relation"," Quadratic Equations"," Graphs of Linear and Quadratic functions"," Linear Inequalities"," Algebraic Fractions"," Functions and Relations"," MENSURATION Lengths and Perimeters"," Areas"," Volumes"," PLANE GEOMETRY Angles"," Angles and intercepts on parallel lines"," Triangles and Polygons"," Circles"," Construction"," Loci"," COORDINATE GEOMETRY OF STRAIGHT LINES TRIGONOMETRY Sine"," Cosine and Tangent of an angle"," Angles of elevation and depression"," Bearings"," INTRODUCTORY CALCULUS STATISTICS AND PROBABILITY Statistics"," Probability"," VECTORS AND TRANSFORMATION Vectors in a Plane"," Transformation in the Cartesian Plane"]
+ }

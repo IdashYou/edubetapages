@@ -1,0 +1,289 @@
+{
+  "id": "10",
+  "Name": "Literature",
+  "Pathname": "littext_unnputme",
+  "pqpath": "littext_unnputme",
+  "description": "A brief Summary on Literature Text Book",
+  "icon": "media/icon.png?3",
+  "certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+  "Version": 1,
+  "Author": "Soligbo Emmanuel, Raphal, Deborah Agadia",
+  "chapters": [
+    {
+      "Topicname": "Summary of Second class citizen",
+      "Topiclocation": "chapter-2024-1.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Summary of Life Changer",
+      "Topiclocation": "chapter1a.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Questions and Answer from Life Changer",
+      "Topiclocation": "chapter1b.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Summary of Look Back in Anger",
+      "Topiclocation": "chapter-2024-2.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Summary of The Lion and the Jewel",
+      "Topiclocation": "chapter-2024-3.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Summary of UNEXPECTED JOY AT DAWN",
+      "Topiclocation": "chapter-2024-4.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "SUMMARY OF WUTHERING HEIGHTS",
+      "Topiclocation": "chapter-2024-5.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Poem SUMMARY OF THE LEADER AND THE LED",
+      "Topiclocation": "chapter-2024-p1.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Poem SUMMARY OF THE GRIEVED LANDS",
+      "Topiclocation": "chapter-2024-p2.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "Poem SUMMARY OF THE WOMEN OF THE LAND",
+      "Topiclocation": "chapter-2024-p3.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "poem SUMMARY OF Raider Of The Treasure Trove",
+      "Topiclocation": "chapter-2024-p4.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "poem SUMMARY OF THE GOVERNMENT DRIVER ON HIS RETIREMENT",
+      "Topiclocation": "chapter-2024-p5.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "poem Summary THE GOOD MORROW",
+      "Topiclocation": "chapter-2024-p6.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "poem Summary CAGED BIRDS",
+      "Topiclocation": "chapter-2024-p7.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "poem Summary BATS",
+      "Topiclocation": "chapter-2024-p8.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "SUMMARY OF Harvest of Corruption",
+      "Topiclocation": "chapter1.html",
+      "pqindex": "-1",
+      "topicid": "1"
+    },
+    {
+      "Topicname": "SUMMARY OF Othello",
+      "Topiclocation": "chapter2.html",
+      "pqindex": "-1",
+      "topicid": "2"
+    },
+    {
+      "Topicname": "SUMMARY OF Faceless",
+      "Topiclocation": "chapter3.html",
+      "pqindex": "-1",
+      "topicid": "3"
+    },
+    {
+      "Topicname": "SUMMARY OF Lonely Days ",
+      "Topiclocation": "chapter4.html",
+      "pqindex": "-1",
+      "topicid": "4"
+    },
+    {
+      "Topicname": "SUMMARY OF NATIVE SON",
+      "Topiclocation": "chapter5.html",
+      "pqindex": "-1",
+      "topicid": "5"
+    },
+    {
+      "Topicname": "Analysis of The Poem Ambush",
+      "Topiclocation": "chapter6.html",
+      "pqindex": "-1",
+      "topicid": "6"
+    },
+    {
+      "Topicname": "POEM SUMMARY Vanity",
+      "Topiclocation": "chapter7.html",
+      "pqindex": "-1",
+      "topicid": "7"
+    },
+    {
+      "Topicname": "POEM SUMMARY Piano and Drums",
+      "Topiclocation": "chapter8.html",
+      "pqindex": "-1",
+      "topicid": "8"
+    },
+    {
+      "Topicname": "POEM SUMMARY The Panic of growing older ",
+      "Topiclocation": "chapter9.html",
+      "pqindex": "-1",
+      "topicid": "9"
+    },
+    {
+      "Topicname": "POEM SUMMARY The Anvil and the Hammer ",
+      "Topiclocation": "chapter10.html",
+      "pqindex": "-1",
+      "topicid": "10"
+    },
+    {
+      "Topicname": "POEM SUMMARY Crossing the Bar",
+      "Topiclocation": "chapter11.html",
+      "pqindex": "-1",
+      "topicid": "11"
+    },
+    {
+      "Topicname": "POEM SUMMARY The Pulley ",
+      "Topiclocation": "chapter12.html",
+      "pqindex": "-1",
+      "topicid": "12"
+    },
+    {
+      "Topicname": "POEM SUMMARY The School Boy",
+      "Topiclocation": "chapter13.html",
+      "pqindex": "-1",
+      "topicid": "13"
+    },
+    {
+      "Topicname": "POEM SUMMARY The Bard",
+      "Topiclocation": "chapter14.html",
+      "pqindex": "-1",
+      "topicid": "14"
+    },
+    {
+      "Topicname": "SUMMARY OF TESS OF THE D'URBERVILLES",
+      "Topiclocation": "chapter15.html",
+      "pqindex": "-1",
+      "topicid": "15"
+    },
+    {
+      "Topicname": "SUMMARY OF THE JOYS OF MOTHERHOOD ",
+      "Topiclocation": "chapter16.html",
+      "pqindex": "-1",
+      "topicid": "16"
+    },
+    {
+      "Topicname": "SUMMARY OF THE NEW MAN: TWENTY-NINE YEARS A SLAVE, TWENTY-NINE YEARS A FREE MAN ",
+      "Topiclocation": "chapter17.html",
+      "pqindex": "-1",
+      "topicid": "17"
+    },
+    {
+      "Topicname": "SUMMARY OF THE 1984",
+      "Topiclocation": "chapter18.html",
+      "pqindex": "-1",
+      "topicid": "18"
+    },
+    {
+      "Topicname": "SUMMARY OF  A TROUBADOUR I TRAVERSE",
+      "Topiclocation": "chapter19.html",
+      "pqindex": "-1",
+      "topicid": "19"
+    },
+    {
+      "Topicname": "SUMMARY OF THE POTTER’S WHEEL ",
+      "Topiclocation": "chapter20.html",
+      "pqindex": "-1",
+      "topicid": "20"
+    },
+    {
+      "Topicname": "SUMMARY OF THE SUCCESORS ",
+      "Topiclocation": "chapter21.html",
+      "pqindex": "-1",
+      "topicid": "21"
+    },
+    {
+      "Topicname": "SUMMARY OF WILLIAM SHAKESPEARE'S TEMPEST",
+      "Topiclocation": "chapter22.html",
+      "pqindex": "-1",
+      "topicid": "22"
+    },
+    {
+      "Topicname": "SUMMARY OF HAMLET",
+      "Topiclocation": "chapter23.html",
+      "pqindex": "-1",
+      "topicid": "23"
+    },
+    {
+      "Topicname": "SUMMARY OF ROMEO AND JULIET",
+      "Topiclocation": "chapter24.html",
+      "pqindex": "-1",
+      "topicid": "24"
+    },
+    {
+      "Topicname": "SUMMARY OF THE WIVES REVOLT",
+      "Topiclocation": "chapter25.html",
+      "pqindex": "-1",
+      "topicid": "25"
+    },
+    {
+      "Topicname": "SUMMARY OF WOMEN OF OWU",
+      "Topiclocation": "chapter26.html",
+      "pqindex": "-1",
+      "topicid": "26"
+    },
+    {
+      "Topicname": "SUMMARY OF PURPLE HIBISCUS",
+      "Topiclocation": "chapter27.html",
+      "pqindex": "-1",
+      "topicid": "27"
+    },
+    {
+      "Topicname": "SUMMARY OF A WOMAN IN HER PRIME",
+      "Topiclocation": "chapter28.html",
+      "pqindex": "-1",
+      "topicid": "28"
+    },
+    {
+      "Topicname": "SUMMARY OF  THE OLD MAN AND THE SEA",
+      "Topiclocation": "chapter29.html",
+      "pqindex": "-1",
+      "topicid": "29"
+    },
+    {
+      "Topicname": "SUMMARY OF THE NEGRO SPEAKS OF RIVERS",
+      "Topiclocation": "chapter30.html",
+      "pqindex": "-1",
+      "topicid": "30"
+    },
+    {
+      "Topicname": "SUMMARY OF JOURNEY OF THE MAGI",
+      "Topiclocation": "chapter31.html",
+      "pqindex": "-1",
+      "topicid": "31"
+    }
+  ]
+}

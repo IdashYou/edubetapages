@@ -1,0 +1,53 @@
+ {
+	"id": "10",
+	"Name": "Mathematics",
+	"Pathname": "lit_unnputme",
+	"pqpath": "lit_unnputme",
+	"description": "A brief Summary on Literature",
+	"icon": "media/icon.png?3",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+ "chapters":[
+		
+{
+	"Topicname": "FIGURES OF SPEECH",
+	 "Topiclocation": "chapter1.html",
+	 "pqindex": "-1",
+	 "topicid": "1"
+  },
+  {
+	 "Topicname": "DRAMA",
+	 "Topiclocation": "chapter2.html",
+	 "pqindex": "-1",
+	 "topicid": "2"
+	  
+  },	
+  {
+	 "Topicname": "PROSE ",
+	  "Topiclocation": "chapter3.html",
+	  "pqindex": "-1",
+	  "topicid": "3"
+   },
+   {
+	  "Topicname": "POETRY",
+	  "Topiclocation": "chapter4.html",
+	  "pqindex": "-1",
+	  "topicid": "4"
+	   
+   },	
+   {
+	  "Topicname": " REVIEW OF GENERAL LITERARY PRINCIPLES",
+	   "Topiclocation": "chapter5.html",
+	   "pqindex": "-1",
+	   "topicid": "5"
+	},
+	{
+	   "Topicname": "REVIEW OF LITERARY APPRECIATION",
+	   "Topiclocation": "chapter6.html",
+	   "pqindex": "-1",
+	   "topicid": "6"
+		
+	}
+ ]
+ }

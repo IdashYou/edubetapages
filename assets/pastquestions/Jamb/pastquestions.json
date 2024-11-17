@@ -1,0 +1,508 @@
+{
+        "pastquestions": [
+                {
+                        "id": "1",
+                        "quizName": "Agric Science",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Agric Science",
+                        "pathName": "Agric_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "2",
+                        "quizName": "Biology",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Biology",
+                        "pathName": "Biology_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "3",
+                        "quizName": "Chemistry",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Chemistry",
+                        "pathName": "Chemistry_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "4",
+                        "quizName": "Commerce",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Commerce",
+                        "pathName": "Commerce_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "5",
+                        "quizName": "CRK",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for CRK",
+                        "pathName": "CRK_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "14",
+                        "quizName": "IRK",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for IRK",
+                        "pathName": "IRK_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "6",
+                        "quizName": "Economics",
+                        "icon": "media/icon.jpeg?2",
+                        "description": "JAMB Past Questions for Economics",
+                        "pathName": "Economics_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "7",
+                        "quizName": "English",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for English",
+                        "pathName": "English_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "8",
+                        "quizName": "Financial Account",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Financial Account",
+                        "pathName": "Financial_Account_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "9",
+                        "quizName": "Geography",
+                        "icon": "media/icon.jpg?2",
+                        "description": "JAMB Past Questions for Geography",
+                        "pathName": "Geography_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "10",
+                        "quizName": "Government",
+                        "icon": "media/icon.jpg?2",
+                        "description": "JAMB Past Questions for Government",
+                        "pathName": "Government_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "11",
+                        "quizName": "Literature",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Literature",
+                        "pathName": "Literature_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "12",
+                        "quizName": "Mathematics",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Mathematics",
+                        "pathName": "Mathematics_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                },
+                {
+                        "id": "13",
+                        "quizName": "Physics",
+                        "icon": "media/icon.png?2",
+                        "description": "JAMB Past Questions for Physics",
+                        "pathName": "Physics_jamb",
+                        "years": [
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012",
+                                "2013",
+                                "2014",
+                                "2015",
+                                "2016",
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2021",
+                                "2022",
+                                "2023",
+                                "2024"
+                        ],
+                        "examType": [
+                                0,
+                                1
+                        ],
+                        "topics": [
+                                1,
+                                2
+                        ]
+                }
+        ]
+}

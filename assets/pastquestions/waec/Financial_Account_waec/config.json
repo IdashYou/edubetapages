@@ -1,0 +1,13 @@
+ {
+"Name": "Financial Account Jamb",
+	"Pathname": "Financial_Account_Jamb",
+	"description": "Past Question on Financial Account for Jamb Examination for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+	"courseid": 8,
+ "years":[2012,2013,2014,2015,2016],
+ "examtype":[ ],
+ "topics":["The Accounting Equation and Double Entry Principles","Accounting Concepts","The Final Accounts of a Sole Trader/proprietorship","Provisions and Reserves","Manufacturing Accounts","Control Accounts and Self-balancing ledgers","Single Entry and Incomplete Records","Accounts of Not-for-Profit Making Organizations","Partnership Accounts","Company Accounts","Accounting for Value Added Tax","Departmental and Branch Account","Public Sector Accounting","Information Technology in Accounting","Miscellaneous Accounts. Financial system" ]
+ }

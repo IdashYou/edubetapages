@@ -1,0 +1,13 @@
+ {
+"Name": "Geography Jamb",
+	"Pathname": "Geography_Jamb",
+	"description": "Past Question on Geography  for Jamb Examination for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"courseid": 9,
+	"Author": "Soligbo Emmanuel",
+ "years":[2006,2007,2008,2009,2010,2012,2013,2014,2016,2018,2022,2023],
+ "examtype":[ ],
+ "topics":[ ]
+ }

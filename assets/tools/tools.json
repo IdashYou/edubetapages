@@ -1,0 +1,33 @@
+{
+    "tools": [
+           {
+                "Name" : "Calculator",
+                "Pathname" : "Calculator",
+                "description" : "Simply Scientific Calculator",
+                "icon" : "media/icon.png?2",
+                "Filename" : "toolcalc.html"    
+            },
+            {
+                "Name" : "Periodic Table",
+                "Pathname" : "Periodic_Table",
+                "description" : "Peroidic Table with colour",
+                "icon" : "media/icon.png?2",
+                "Filename" : "toolperiodictable.html"  
+            },
+            {
+                "Name" : "Unit Converter",
+                "Pathname" : "Unit_Converter",
+                "description" : "Basic Scientific Converter",
+                "icon" : "media/icon.png?2",
+                "Filename" : "toolconverter.html"  
+            },
+            {
+                "Name" : "Molar Mass Calculator",
+                "Pathname" : "Molarmasscalculator",
+                "description" : "Basic Scientific Converter",
+                "icon" : "media/icon.png?2",
+                "Filename" : "dist/index.html"  
+            }
+    ]
+    
+ }

@@ -1,0 +1,102 @@
+{
+	"Name": "Futo chemistry 101",
+	"Pathname": "FutoChm101",
+	"description": "A summary on chemistry 101 Futo",
+	"icon": "media/icon.jpg?3",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+	"Chapters": {
+		"topicnumbers": "22",
+		"Topics": {
+			"Topic1": {
+				"Topicname": "BASIC CONCEPT OF MEASUREMENT",
+				"Topiclocation": "Chapter1.html"
+			},
+			"Topic2": {
+				"Topicname": "INTRODUCTION TO CHEMISTRY",
+				"Topiclocation": "Chapter2.html"
+			},
+			"Topic3": {
+				"Topicname": "CHEMICAL COMBINATION",
+				"Topiclocation": "Chapter3.html"
+			},
+			"Topic4": {
+				"Topicname": "KINETIC THEORY OF MATTER",
+				"Topiclocation": "Chapter4.html"
+			},
+			"Topic5": {
+				"Topicname": "ATOMIC STRUTURE",
+				"Topiclocation": "Chapter5.html"
+			},
+			"Topic6": {
+				"Topicname": " SUB ATOMIC STRUTRE",
+				"Topiclocation": "Chapter6.html"
+			},
+			"Topic7": {
+				"Topicname": "INTRODUCTION TO QUAMTUM CHEMISTRY",
+				"Topiclocation": "Chapter7.html"
+			},
+			"Topic8": {
+				"Topicname": "PERIODICITY AND ELECTRONICS CONFIGUARTION",
+				"Topiclocation": "Chapter8.html"
+			},
+			"Topic9": {
+				"Topicname": "CHEMICAL BONDING",
+				"Topiclocation": "Chapter9.html"
+			},
+			"Topic10": {
+				"Topicname": "FORMULAS AND NUMBERS",
+				"Topiclocation": "Chapter10.html"
+			},
+			"Topic11": {
+				"Topicname": "CHEMICAL EQUATION",
+				"Topiclocation": "Chapter11.html"
+			},
+			"Topic12": {
+				"Topicname": "BALANCING CHEMICAL EQUATIONS",
+				"Topiclocation": "Chapter12.html"
+			},
+			"Topic13": {
+				"Topicname": "REDOX REACTION",
+				"Topiclocation": "Chapter13.html"
+			},
+			"Topic14": {
+				"Topicname": "ELECTROCHEMISTRY",
+				"Topiclocation": "Chapter14.html"
+			},
+			"Topic15": {
+				"Topicname": "TERMINOLOGY",
+				"Topiclocation": "Chapter15.html"
+			},
+			"Topic16": {
+				"Topicname": "ACID BASE AND SALT",
+				"Topiclocation": "Chapter16.html"
+			},
+			"Topic17": {
+				"Topicname": "Test 1",
+				"Topiclocation": "Chapter22.html"
+			},
+			"Topic18": {
+				"Topicname": "Test 2",
+				"Topiclocation": "Chapter23.html"
+			},
+			"Topic19": {
+				"Topicname": "Test 3",
+				"Topiclocation": "Chapter24.html"
+			},
+			"Topic20": {
+				"Topicname": "Exam 1",
+				"Topiclocation": "Chapter25.html"
+			},
+			"Topic21": {
+				"Topicname": "Exam 2",
+				"Topiclocation": "Chapter26.html"
+			},
+			"Topic22": {
+				"Topicname": "Exam 3",
+				"Topiclocation": "Chapter27.html"
+			}
+		}
+	}
+}

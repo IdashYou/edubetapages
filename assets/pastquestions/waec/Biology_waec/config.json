@@ -1,0 +1,13 @@
+ {
+"Name": "Biology POST UTME",
+	"Pathname": "Biology_waec",
+	"description": "Past Question on Biology for POST UTME for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+	"courseid": 2,
+ "years":[2012,2013,2014,2015,2016,2017,2018,2019],
+ "examtype":[ ],
+ "topics":["Concept of Living"," Classification"," Organization of life"," Forms in which living cells exist"," Cell structure and functions of cell components"," The Cell and its environment: Physical and Biophysical processes"," Properties and functions of the living cell"," Tissues and supporting systems","Skeleton and supporting systems in animals"," Transport System"," Respiratory System"," Excretory Systems and Mechanisms"," Regulation of Internal Environment"," Hormonal Coordination"," Nervous Coordination"," Sense Organs: Structure and function of the eye and ear"," Reproductive system of mammals"," Plant and Animal Nutrition"," Plant Nutrition"," Animal Nutrition"," Basic Ecological Concepts"," Ecosystem"," Ecological factors"," Simple Measurement of Ecological Factors"," Food webs and trophic levels"," Ecological Management"," Ecology of population"," Microorganisms: Man and health"," Conservation of Natural Resources"," Resources to be conserved: soil"," water"," wildlife"," forest and minerals","Ways of ensuring conservation"," Variation in Population"," Morphological variations in the physical appearance of individuals"," Physiological Variations"," Biology of Heredity (Genetics)"," Genetic terminologies"," Transmission and expression of characteristics in organisms. Chromosomes: The basis of heredity"," Probability in genetics (Hybrid formation). Linkage"," sex determination and sex linked characters. Application of the principles of heredity in Agriculture and Medicine "," Adaptation for survival and Evolution"," Behavioral Adaptations in Social Animals"," Evolution"]
+ }

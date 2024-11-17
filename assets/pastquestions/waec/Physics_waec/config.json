@@ -1,0 +1,13 @@
+ {
+"Name": "Physics",
+	"Pathname": "Physics_waec",
+	"description": "Past Question on Physics for Jamb Examination for more than 10 years",
+	"icon": "media/icon.png?2",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+	"courseid": 13,
+ "years":[2012,2013,2014,2015,2018,2020],
+ "examtype":["Jamb UTME", "Direct Entry"],
+ "topics":[ "Concepts of matter"," Fundamental and derived quantities and units"," Position"," distance and displacement"," Mass and weight"," Time"," Fluid at rest"," Motion"," Speed and velocity"," Rectilinear acceleration"," Scalars and vectors"," Equilibrium of forces"," Simple harmonic motion"," Newton’s laws of motion: Energy: Work"," Energy and Power"," Heat Energy"," Production and propagation of waves"," Types of waves"," Properties of waves"," Light waves"," Electromagnetic waves"," Sound Waves"," Description property of fields Gravitational field"," Electric Field"," Magnetic field"," Electromagnetic field"," Simple a.c. circuits"," Structure of the atom"," Structure of the nucleus"," Wave-particle paradox."]
+ }

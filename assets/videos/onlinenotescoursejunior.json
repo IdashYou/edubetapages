@@ -1,0 +1,94 @@
+{     
+         "statuscode":"100",
+        "statusmessage":"Retrive successfully",
+        "post": [
+                {
+                        "id": "51",
+                        "Name": "Mathematics Junior Flash Notes",
+                        "tag": "MathematicsFlashNotes",
+                        "description": "A brief Summary on Mathematics",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/mathsjunior.png?3",
+                        "coursetag":[
+                                     {"displayname":"Mathematics JSS1 ", "tagname":"MathematicsjuniorflashnoteJSS1","topicgroups":"2"},
+                                     {"displayname":"Mathematics JSS2 ", "tagname":"MathematicsjuniorflashnoteJSS2","topicgroups":"2"},
+                                     {"displayname":"Mathematics JSS3 (BECE Exam Revision)", "tagname":"MathematicsjuniorflashnoteJSS3","topicgroups":"2"}
+                                   ]
+                },
+                {
+                        "id": "52",
+                        "Name": "English Junior Flash Notes",
+                        "tag": "EnglishFlashNotes",
+                        "description": "A brief Summary on Chemsitry",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/engjun.jpg?3",
+                        "coursetag":[
+                                {"displayname":"English JSS1 ", "tagname":"EnglishjuniorflashnoteJSS1","topicgroups":"2"},
+                                {"displayname":"English JSS2 ", "tagname":"EnglishjuniorflashnoteJSS2","topicgroups":"2"},
+                                {"displayname":"English JSS3 (BECE Exam Revision)", "tagname":"EnglishjuniorflashnoteJSS3","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "53",
+                        "Name": "Basic Science Flash Notes",
+                        "tag": "Basic ScienceFlashNotes",
+                        "description": "A brief Summary on Basic Science",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/basicscience.png?3",
+                        "coursetag":[
+                                {"displayname":"Basic Science JSS1 ", "tagname":"BasicScienceflashnoteJSS1","topicgroups":"2"},
+                                {"displayname":"Basic Science JSS2 ", "tagname":"BasicScienceflashnoteJSS2","topicgroups":"2"},
+                                {"displayname":"Basic Science JSS3 (BECE Exam Revision)", "tagname":"Basic ScienceflashnoteJSS3","topicgroups":"2"}
+                              ]
+                },
+                {
+                        "id": "54",
+                        "Name": "Basic Technology Flash Notes",
+                        "tag": "BasicTechnologyFlashNotes",
+                        "description": "A brief Summary on BasicTechnology",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/basictech.jpg?3",
+                        "coursetag":[
+                                {"displayname":"Basic Technology JSS1 ", "tagname":"BasicTechnologyflashnoteJSS1","topicgroups":"2"},
+                                {"displayname":"Basic Technology JSS2 ", "tagname":"BasicTechnologyflashnoteJSS2","topicgroups":"2"},
+                                {"displayname":"Basic Technology JSS3 (BECE Exam Revision)", "tagname":"BasicTechnologyflashnoteJSS3","topicgroups":"2"}
+                              ]
+                },{
+                        "id": "55",
+                        "Name": "Social Studies Flash Notes",
+                        "tag": "SocialStudiesFlashNotes",
+                        "description": "A brief Summary on SocialStudies",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/sos.jpg?3",
+                        "coursetag":[
+                                {"displayname":"Social Studies JSS1 ", "tagname":"SocialStudiesflashnoteJSS1","topicgroups":"2"},
+                                {"displayname":"Social Studies JSS2 ", "tagname":"SocialStudiesflashnoteJSS2","topicgroups":"2"},
+                                {"displayname":"Social Studies JSS3 (BECE Exam Revision)", "tagname":"SocialStudiesflashnoteJSS3","topicgroups":"2"}
+                              ]
+                    },
+                {
+                        "id": "56",
+                        "Name": "Business Studies Flash Notes",
+                        "tag": "BusinessstudiesFlashNotes",
+                        "description": "A brief Summary on Businessstudies",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/businesstudy.png?3",
+                        "coursetag":[
+                                {"displayname":"Business studies JSS1 ", "tagname":"BusinessstudiesflashnoteJSS1","topicgroups":"2"},
+                                {"displayname":"Business studies JSS2 ", "tagname":"BusinessstudiesflashnoteJSS2","topicgroups":"2"},
+                                {"displayname":"Business studies JSS3 (BECE Exam Revision)", "tagname":"BusinessstudiesflashnoteJSS3","topicgroups":"2"}
+                         ]
+                },
+                {
+                        "id": "57",
+                        "Name": "Civil Education Flash Notes",
+                        "tag": "CivilEducationFlashNotes",
+                        "description": "A brief Summary on Businessstudies",
+                        "icon": "https://mystudyappapi.profeworld.com/files/flashnotecoursesgroup/civileducation.png?3",
+                        "coursetag":[
+                                {"displayname":"Civil Education JSS1 ", "tagname":"CivilEducationflashnoteJSS1","topicgroups":"2"},
+                                {"displayname":"Civil Education JSS2 ", "tagname":"CivilEducationflashnoteJSS2","topicgroups":"2"},
+                                {"displayname":"Civil Education JSS3 (BECE Exam Revision)", "tagname":"CivilEducationflashnoteJSS3","topicgroups":"2"}
+                          ]
+                }
+             ],
+
+        "alertmessgae":"<b class='w3-text-red'>We appologise for the delay in updating/uploading Flash Notes, All FlashNotes courses will be updated by 10th of May, and will be in repect to your syllables, we will extend all our subscribers subscription by 2 weeks for those who subscribe before 10th of may for the inconvinence </b>",
+        "alertcolour":"pale-red",
+        "alertdisplay":1
+        
+        }

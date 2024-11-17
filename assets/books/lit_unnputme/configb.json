@@ -1,0 +1,71 @@
+{
+	"Name": "Futo Maths 101",
+	"Pathname": "FutoMth101",
+	"description": "A brief Summary on Math",
+	"icon": "media/icon.png?3",
+	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
+	"Version": 1,
+	"Author": "Soligbo Emmanuel",
+	"Chapters": {
+		"topicnumbers": "14",
+		"Topics": {
+			"Topic1": {
+				"Topicname": "ALGEBRAIC EQUATIONS",
+				"Topiclocation": "Chapter1.html"
+			},
+			"Topic2": {
+				"Topicname": "PARTIAL FRACTIONS",
+				"Topiclocation": "Chapter2.html"
+			},
+			"Topic3": {
+				"Topicname": "INDICES",
+				"Topiclocation": "Chapter3.html"
+			},
+			"Topic4": {
+				"Topicname": "LOGARITHM",
+				"Topiclocation": "Chapter4.html"
+			},
+			"Topic5": {
+				"Topicname": "SEQUENCE AND SERIES",
+				"Topiclocation": "Chapter5.html"
+			},
+			"Topic6": {
+				"Topicname": "BINOMIAL EXPRESSION",
+				"Topiclocation": "Chapter6.html"
+			},
+			"Topic7": {
+				"Topicname": "COMPLEX NUMBERS",
+				"Topiclocation": "Chapter7.html"
+			},
+			"Topic8": {
+				"Topicname": "SET THEORY",
+				"Topiclocation": "Chapter8.html"
+			},
+			"Topic9": {
+				"Topicname": "PRINCIPLE OF MATHEMATICS INDUCTION",
+				"Topiclocation": "Chapter9.html"
+			},
+			"Topic10": {
+				"Topicname": "Test 1",
+				"Topiclocation": "Chapter16.html"
+			},
+			"Topic11": {
+				"Topicname": "Test 2",
+				"Topiclocation": "Chapter17.html"
+			},
+			"Topic12": {
+				"Topicname": "Test 3",
+				"Topiclocation": "Chapter18.html"
+			},
+			"Topic13": {
+				"Topicname": "Test 4",
+				"Topiclocation": "Chapter19.html"
+			},
+			"Topic14": {
+				"Topicname": "Test 5",
+				"Topiclocation": "Chapter20.html"
+			}
+			
+		}
+	}
+}
