@@ -1,6 +1,6 @@
 {
-        "statuscode":"100",
-        "statusmessage":"Retrive successfully",
+        "statuscode": "100",
+        "statusmessage": "Retrive successfully",
         "post": [
                 {
                         "id": "2",
@@ -8,9 +8,8 @@
                         "tag": "biologyvideo",
                         "description": "A brief Summary on Biology",
                         "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/bioicon.png?3",
-                        "coursetag":[
-                                     {"displayname":"Biology All Videos", "tagname":"biologyvideoall","topicgroups":"2"}
-                                   ]
+                        "Pathname": "bio_unnputme",
+                        "pqpath": "bio_unnputme"
                 },
                 {
                         "id": "3",
@@ -18,9 +17,8 @@
                         "tag": "chemistryvideo",
                         "description": "A brief Summary on Chemsitry",
                         "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/chemicon.png?3",
-                        "coursetag":[
-                                {"displayname":"Chemistry All Videos", "tagname":"chemistryvideoall","topicgroups":"2"}
-                              ]
+                        "Pathname": "chem_unnputme",
+                        "pqpath": "Chemistry_putmeunn"
                 },
                 {
                         "id": "11",
@@ -28,9 +26,8 @@
                         "tag": "physicsvideo",
                         "description": "A brief Summary on Physics",
                         "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/phyicon.png?3",
-                        "coursetag":[
-                                {"displayname":"Physics All Videos", "tagname":"physicsvideoall","topicgroups":"2"}
-                              ]
+                        "Pathname": "physics_unnputme",
+                        "pqpath": "physics_unnputme"
                 },
                 {
                         "id": "12",
@@ -38,9 +35,8 @@
                         "tag": "mathematicsvideo",
                         "description": "A brief Summary on Mathematics",
                         "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/mathsicon.png?3",
-                        "coursetag":[
-                                {"displayname":"Mathematics All Videos", "tagname":"mathematicsvideoall","topicgroups":"2"}
-                              ]
+                        "Pathname": "maths_unnputme",
+                        "pqpath": "maths_unnputme"
                 },
                 {
                         "id": "07",
@@ -48,9 +44,8 @@
                         "tag": "englishvideo",
                         "description": "A brief Summary on English",
                         "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/englishicon.png?3",
-                        "coursetag":[
-                                {"displayname":"English SS1,2,3", "tagname":"englishvideoall","topicgroups":"4"}
-                              ]
+                        "Pathname": "eng_unnputme",
+                        "pqpath": "eng_unnputme"
                 },
                 {
                         "id": "06",
@@ -58,9 +53,8 @@
                         "tag": "economicsvideo",
                         "description": "A brief Summary on Economics",
                         "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/econsicon.png?3",
-                        "coursetag":[
-                                {"displayname":"Economics All Videos", "tagname":"economicsvideoall","topicgroups":"2"}
-                              ]
+                        "Pathname": "econs_unnputme",
+                        "pqpath": "econs_unnputme"
                 },
                 {
                         "id": "10",
@@ -68,14 +62,11 @@
                         "tag": "governmentvideo",
                         "description": "A brief Summary on Economics",
                         "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/econsicon.png?3",
-                        "coursetag":[
-                                {"displayname":"Government All Videos", "tagname":"governmentvideoall","topicgroups":"2"}
-                              ]
+                        "Pathname": "gov_unnputme",
+                        "pqpath": "Government_putmeunn"
                 }
-             ],
-
-        "alertmessgae":"<b class='w3-text-red'> Contact  +234 703 091 1579 to join our Learn Beta Whatsapp class.</b>",
-        "alertcolour":"pale-red",
-        "alertdisplay":1
-        
-        }
+        ],
+        "alertmessgae": "<b class='w3-text-red'> Contact  +234 703 091 1579 to join our Learn Beta Whatsapp class.</b>",
+        "alertcolour": "pale-red",
+        "alertdisplay": 1
+}
