@@ -7,7 +7,7 @@
                         "Name": "Biology Videos",
                         "tag": "biologyvideo",
                         "description": "A brief Summary on Biology",
-                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/bioicon.png?3",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/bio.jpg?3",
                         "Pathname": "bio_unnputme",
                         "pqpath": "bio_unnputme"
                 },
@@ -16,7 +16,7 @@
                         "Name": "Chemistry Videos",
                         "tag": "chemistryvideo",
                         "description": "A brief Summary on Chemsitry",
-                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/chemicon.png?3",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/chemistry.png?3",
                         "Pathname": "chem_unnputme",
                         "pqpath": "Chemistry_putmeunn"
                 },
@@ -25,7 +25,7 @@
                         "Name": "Physics Videos",
                         "tag": "physicsvideo",
                         "description": "A brief Summary on Physics",
-                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/phyicon.png?3",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/physics.png?3",
                         "Pathname": "physics_unnputme",
                         "pqpath": "physics_unnputme"
                 },
@@ -34,7 +34,7 @@
                         "Name": "Mathematics Videos",
                         "tag": "mathematicsvideo",
                         "description": "A brief Summary on Mathematics",
-                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/mathsicon.png?3",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/mathematics.png?3",
                         "Pathname": "maths_unnputme",
                         "pqpath": "maths_unnputme"
                 },
@@ -43,7 +43,7 @@
                         "Name": "English Videos",
                         "tag": "englishvideo",
                         "description": "A brief Summary on English",
-                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/englishicon.png?3",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/english.png?3",
                         "Pathname": "eng_unnputme",
                         "pqpath": "eng_unnputme"
                 },
@@ -52,7 +52,7 @@
                         "Name": "Economics Videos",
                         "tag": "economicsvideo",
                         "description": "A brief Summary on Economics",
-                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/econsicon.png?3",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/econs.png?3",
                         "Pathname": "econs_unnputme",
                         "pqpath": "econs_unnputme"
                 },
@@ -61,7 +61,7 @@
                         "Name": "Government Videos",
                         "tag": "governmentvideo",
                         "description": "A brief Summary on Economics",
-                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/econsicon.png?3",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/government.png?3",
                         "Pathname": "gov_unnputme",
                         "pqpath": "Government_putmeunn"
                 }
