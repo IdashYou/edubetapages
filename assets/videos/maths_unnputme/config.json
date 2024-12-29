@@ -1,127 +1,284 @@
- {
-	"id": "1",
-	"Name": "Biology",
-	"Pathname": "chem_unnputme",
-	"pqpath": "Chemistry_putmeunn",
-	"description": "A summary on chemistry",
+{
+	"id": "11",
+	"Name": "Mathematics",
+	"Pathname": "maths_unnputme",
+	"pqpath": "maths_unnputme",
+	"description": "A brief Summary on Mathematics",
 	"icon": "media/icon.png?3",
 	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
 	"Version": 1,
 	"Author": "Soligbo Emmanuel",
- 
-"chapters":[
-	
+ "chapters":[
+		
 {
-   "Topicname": "INTRO TO BIOLOGY",
-	"Topiclocation": "chapter1.html",
-	"pqindex": "-1",
-	"topicid": "1"
- },
- {
-	"Topicname": "KINGDOM CLASSIFICATION",
-	"Topiclocation": "chapter2.html",
-	"pqindex": "-1",
-	"topicid": "2"
-	 
- },	
- {
-	"Topicname": "CHARACTERITICS OF LIVING THINGS",
-	 "Topiclocation": "chapter3.html",
+	"Topicname": "Indices",
+	 "Topiclocation": "chapter1.html",
 	 "pqindex": "-1",
-	 "topicid": "3"
+	 "topicid": "1"
+  },
+  {
+	 "Topicname": "Logarithm I",
+	 "Topiclocation": "chapter2.html",
+	 "pqindex": "-1",
+	 "topicid": "2"
+	  
+  },	
+  {
+	 "Topicname": "Set",
+	  "Topiclocation": "chapter3.html",
+	  "pqindex": "-1",
+	  "topicid": "3"
    },
+   {
+	  "Topicname": "Number Bases",
+	  "Topiclocation": "chapter4.html",
+	  "pqindex": "-1",
+	  "topicid": "4"
+	   
+   },
+   {
+	  "Topicname": "Variation",
+	   "Topiclocation": "chapter5.html",
+	   "pqindex": "-1",
+	   "topicid": "5"
+	},
 	{
-		"Topicname": "ENZYMES AND HORMONES",
-		 "Topiclocation": "chapter11.html",
-		 "pqindex": "-1",
-		 "topicid": "11"
-	  },
-	  {
-		"Topicname": "THE NERVOUS SYSTEM",
-		"Topiclocation": "chapter12.html",
+	   "Topicname": "Equations I",
+	   "Topiclocation": "chapter6.html",
+	   "pqindex": "-1",
+	   "topicid": "6"
+		
+	},	
+	{
+	   "Topicname": "Modular Arithmetics",
+		"Topiclocation": "chapter7.html",
 		"pqindex": "-1",
-		"topicid": "12"
+		"topicid": "7"
+	 },
+	 {
+		"Topicname": "Constructions",
+		"Topiclocation": "chapter8.html",
+		"pqindex": "-1",
+		"topicid": "8"
 		 
 	 },	
 	 {
-		"Topicname": "SENSE ORGANS",
-		 "Topiclocation": "chapter13.html",
+		"Topicname": "Proof of some basic Theorem",
+		 "Topiclocation": "chapter9.html",
 		 "pqindex": "-1",
-		 "topicid": "13"
+		 "topicid": "9"
 	  },
 	  {
-		 "Topicname": "CIRCULATORY SYSTEM",
-		 "Topiclocation": "chapter14.html",
+		 "Topicname": "Equation II - Quadratic Equation",
+		 "Topiclocation": "chapter10.html",
 		 "pqindex": "-1",
-		 "topicid": "14"
+		 "topicid": "10"
 		  
 	  },	
 	  {
-		 "Topicname": "RESPIRATION",
-		  "Topiclocation": "chapter15.html",
+		 "Topicname": "Logical Reasoning",
+		  "Topiclocation": "chapter11.html",
 		  "pqindex": "-1",
-		  "topicid": "15"
+		  "topicid": "11"
 	   },
 	   {
-		  "Topicname": "DIGESTIVE SYSTEM",
-		  "Topiclocation": "chapter16.html",
+		  "Topicname": "Trigonometry",
+		  "Topiclocation": "chapter12.html",
 		  "pqindex": "-1",
-		  "topicid": "16"
+		  "topicid": "12"
 		   
 	   },
 	   {
-		  "Topicname": "THE EXCRETORY SYSTEM",
-		   "Topiclocation": "chapter17.html",
+		  "Topicname": "Mensuration",
+		  "Topiclocation": "chapter13.html",
+		  "pqindex": "-1",
+		  "topicid": "13"
+		   
+	   },	
+	   {
+		  "Topicname": "Data Presentation",
+		   "Topiclocation": "chapter14.html",
 		   "pqindex": "-1",
-		   "topicid": "17"
+		   "topicid": "14"
 		},
 		{
-		   "Topicname": "ADAPTATION",
-			"Topiclocation": "chapter19.html",
+		   "Topicname": "Logarithm II",
+		   "Topiclocation": "chapter15.html",
+		   "pqindex": "-1",
+		   "topicid": "15"
+			
+		},
+		 {
+			"Topicname": "Sequence and Series",
+			"Topiclocation": "chapter16.html",
 			"pqindex": "-1",
-			"topicid": "19"
+			"topicid": "16"
+			 
 		 },
 		 {
-			"Topicname": "GENETICS",
-			"Topiclocation": "chapter20.html",
+			"Topicname": "Equation Part III - Quadratic Equation and Simulatenous Equation",
+			"Topiclocation": "chapter17.html",
 			"pqindex": "-1",
-			"topicid": "20"
+			"topicid": "17"
 			 
 		 },	
 		 {
-			"Topicname": "ECOLOGY",
+			"Topicname": "Equation IV - Simulatenous Linear and quadratic Equations",
+			 "Topiclocation": "chapter18.html",
+			 "pqindex": "-1",
+			 "topicid": "18"
+		  },
+		  {
+			 "Topicname": "Coordinate Geometry",
+			 "Topiclocation": "chapter19.html",
+			 "pqindex": "-1",
+			 "topicid": "19"
+			  
+		  },
+		  {
+			"Topicname": "Estimations",
+			 "Topiclocation": "chapter20.html",
+			 "pqindex": "-1",
+			 "topicid": "20"
+		  },
+		  {
+			 "Topicname": "Inequalities",
 			 "Topiclocation": "chapter21.html",
 			 "pqindex": "-1",
 			 "topicid": "21"
+			  
 		  },
 		  {
-			 "Topicname": "REPRODUCTION",
+			 "Topicname": "Algebraic Fractions",
 			 "Topiclocation": "chapter22.html",
 			 "pqindex": "-1",
 			 "topicid": "22"
 			  
-		  },
+		  },	
+		  {
+			 "Topicname": "Circle Geometry",
+			  "Topiclocation": "chapter23.html",
+			  "pqindex": "-1",
+			  "topicid": "23"
+		   },
 		   {
-			  "Topicname": "CELL DIVISION",
+			  "Topicname": "Trigonometry II",
 			  "Topiclocation": "chapter24.html",
 			  "pqindex": "-1",
 			  "topicid": "24"
 			   
-		   },
+		   },	
+		   {
+			  "Topicname": "Bearing and Direction",
+			   "Topiclocation": "chapter25.html",
+			   "pqindex": "-1",
+			   "topicid": "25"
+			},
 			{
-			   "Topicname": "EVOLUTION",
+			   "Topicname": "Statitics II",
 			   "Topiclocation": "chapter26.html",
 			   "pqindex": "-1",
 			   "topicid": "26"
 				
 			},
-			
 			{
-				"Topicname": "MY FINAL BIOLOGY REVISION",
-				"Topiclocation": "chapter30.html",
+			   "Topicname": "Probability",
+			   "Topiclocation": "chapter27.html",
+			   "pqindex": "-1",
+			   "topicid": "27"
+				
+			},	
+			{
+			   "Topicname": "Vectors",
+				"Topiclocation": "chapter28.html",
 				"pqindex": "-1",
-				"topicid": "30"
+				"topicid": "28"
+			 },
+			 {
+				"Topicname": "Transformation Geometry",
+				"Topiclocation": "chapter29.html",
+				"pqindex": "-1",
+				"topicid": "29"
 				 
-			 }
-         ]
+			 },
+			 {
+				"Topicname": "Logarithm III - Logarithm Equation",
+				 "Topiclocation": "chapter30.html",
+				 "pqindex": "-1",
+				 "topicid": "30"
+			  },
+			  {
+				 "Topicname": "Surds",
+				 "Topiclocation": "chapter31.html",
+				 "pqindex": "-1",
+				 "topicid": "31"
+				  
+			  },
+			  {
+				 "Topicname": "Matrix",
+				 "Topiclocation": "chapter32.html",
+				 "pqindex": "-1",
+				 "topicid": "32"
+				  
+			  },	
+			  {
+				 "Topicname": "Arithmetic of finance ",
+				  "Topiclocation": "chapter33.html",
+				  "pqindex": "-1",
+				  "topicid": "33"
+			   },
+			   {
+				  "Topicname": "Mensuration II - Surface Area and volume of sphere",
+				  "Topiclocation": "chapter34.html",
+				  "pqindex": "-1",
+				  "topicid": "34"
+				   
+			   },	
+			   {
+				  "Topicname": "Longitude and Latitude",
+				   "Topiclocation": "chapter35.html",
+				   "pqindex": "-1",
+				   "topicid": "35"
+				},
+				{
+				   "Topicname": "Trigonometry III - Graph of Trigonometry ",
+				   "Topiclocation": "chapter36.html",
+				   "pqindex": "-1",
+				   "topicid": "36"
+					
+				},
+				{
+				   "Topicname": "Calculus I - Differentiation",
+				   "Topiclocation": "chapter37.html",
+				   "pqindex": "-1",
+				   "topicid": "37"
+					
+				},	
+				{
+				   "Topicname": "Calculus II - Intergration",
+					"Topiclocation": "chapter38.html",
+					"pqindex": "-1",
+					"topicid": "38"
+				 },
+				 {
+					"Topicname": "Basic Programming (Additional)",
+					"Topiclocation": "chapter39.html",
+					"pqindex": "-1",
+					"topicid": "39"
+					 
+				 },
+				 {
+					"Topicname": "Statitics III Permutation and combination",
+					 "Topiclocation": "chapter40.html",
+					 "pqindex": "-1",
+					 "topicid": "40"
+				  },
+				  {
+					 "Topicname": "Formulas Used in mathematics  ",
+					 "Topiclocation": "chapter41.html",
+					 "pqindex": "-1",
+					 "topicid": "41"
+					  
+				  }
+ ]
  }
