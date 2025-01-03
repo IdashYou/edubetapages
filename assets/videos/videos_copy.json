@@ -1,0 +1,72 @@
+{
+        "statuscode": "100",
+        "statusmessage": "Retrive successfully",
+        "post": [
+                {
+                        "id": "2",
+                        "Name": "Biology Videos",
+                        "tag": "biologyvideo",
+                        "description": "A brief Summary on Biology",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/bio.jpg?3",
+                        "Pathname": "bio_unnputme",
+                        "pqpath": "bio_unnputme"
+                },
+                {
+                        "id": "3",
+                        "Name": "Chemistry Videos",
+                        "tag": "chemistryvideo",
+                        "description": "A brief Summary on Chemsitry",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/chemistry.png?3",
+                        "Pathname": "chem_unnputme",
+                        "pqpath": "Chemistry_putmeunn"
+                },
+                {
+                        "id": "11",
+                        "Name": "Physics Videos",
+                        "tag": "physicsvideo",
+                        "description": "A brief Summary on Physics",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/physics.png?3",
+                        "Pathname": "physics_unnputme",
+                        "pqpath": "physics_unnputme"
+                },
+                {
+                        "id": "12",
+                        "Name": "Mathematics Videos",
+                        "tag": "mathematicsvideo",
+                        "description": "A brief Summary on Mathematics",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/mathematics.png?3",
+                        "Pathname": "maths_unnputme",
+                        "pqpath": "maths_unnputme"
+                },
+                {
+                        "id": "07",
+                        "Name": "English Videos",
+                        "tag": "englishvideo",
+                        "description": "A brief Summary on English",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/english.png?3",
+                        "Pathname": "eng_unnputme",
+                        "pqpath": "eng_unnputme"
+                },
+                {
+                        "id": "06",
+                        "Name": "Economics Videos",
+                        "tag": "economicsvideo",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/econs.png?3",
+                        "Pathname": "econs_unnputme",
+                        "pqpath": "econs_unnputme"
+                },
+                {
+                        "id": "10",
+                        "Name": "Government Videos",
+                        "tag": "governmentvideo",
+                        "description": "A brief Summary on Economics",
+                        "icon": "https://idashyou.github.io/edubetapages/assets/videoscoursesgroup/government.png?3",
+                        "Pathname": "gov_unnputme",
+                        "pqpath": "Government_putmeunn"
+                }
+        ],
+        "alertmessgae": "<b class='w3-text-red'> Contact  +234 703 091 1579 to join our Learn Beta Whatsapp class.</b>",
+        "alertcolour": "pale-red",
+        "alertdisplay": 1
+}
