@@ -1,6 +1,7 @@
 {
   "appName": "Edu-Beta-App",
   "appId": 1,
+  "appVersionCode": 1,
   "regInfoURL": "/online_files/reg_info.json",
   "pinApiURL": "/online_files/reg_success.json",
   "appApiURL": "https://idashyou.github.io/edubetapages/",
@@ -8,6 +9,7 @@
   "privacyPolicyURL": "https://idashyou.github.io/edubetapages/online_files/privacy.html",
   "termsAndConditionURL": "https://idashyou.github.io/edubetapages/online_files/terms.html",
   "googleLoginUrl": "https://idashyou.github.io/edubetapages/online_files/googlelogin/googleloginserverprofeworld.html",
+  "appRegistrationPromotion": null,
   "contactNumber": "_2348155969878",
   "onlineClassNumber": "_2348155969878",
   "hidePayment": false,
