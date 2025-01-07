@@ -1,3 +1,6 @@
 {
-  "data":{ "amount":1500}
+  "data": {
+    "amount": 1500,
+    "paystackKey": "pk_live_895c03210f210894fceb255c74286f465ef9ce52"
+  }
 }
