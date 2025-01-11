@@ -40,5 +40,6 @@
   "groupLink": "https://chat.whatsapp.com/IS8eiOdpY1sAJmXKKGOzFn",
   "andriod_free": false,
   "ios_free": true,
-  "showDisclaimerMsg": true
+  "showDisclaimerMsg": true,
+  "useOnlineVersion": true
 }
