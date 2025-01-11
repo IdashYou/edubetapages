@@ -43,5 +43,5 @@
   "andriod_free": false,
   "ios_free": true,
   "showDisclaimerMsg": true,
-  "useOnlineVersion": true
+  "useOnlineVersion": false
 }
