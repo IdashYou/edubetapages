@@ -44,6 +44,6 @@
   "ios_free": true,
   "showDisclaimerMsg": true,
   "useOnlineVersion": false,
-  "useOnlineVersionText": false,
-  "useOnlineVersionLiterature": true
+  "useOnlineVersionText": true,
+  "useOnlineVersionLiterature": false
 }
