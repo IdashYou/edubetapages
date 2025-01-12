@@ -41,7 +41,7 @@
   "enabledSubtypeOptions": true,
   "groupLink": "https://chat.whatsapp.com/IS8eiOdpY1sAJmXKKGOzFn",
   "andriod_free": false,
-  "ios_free": true,
+  "ios_free": false,
   "showDisclaimerMsg": true,
   "useOnlineVersion": false,
   "useOnlineVersionText": false,
