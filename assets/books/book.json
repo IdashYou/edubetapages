@@ -1,13 +1,5 @@
 {
         "books": [
-                 {
-                        "id": "1",
-                        "Name": "Syllables",
-                        "Pathname": "jamb_syllables",
-                        "pqpath": "jamb_syllables",
-                        "description": "Summary of Jamb Syllables",
-                        "icon": "media/icon.png?3"
-                },
                 {
                         "id": "2",
                         "Name": "Biology",
@@ -65,14 +57,6 @@
                         "icon": "media/icon.png?3"
                 },
                 {
-                        "id": "11",
-                        "Name": "Literature Text",
-                        "Pathname": "littext_unnputme",
-                        "pqpath": "littext_unnputme",
-                        "description": "A summary on Literature Text",
-                        "icon": "media/icon.png?3"
-                },
-                {
                         "id": "12",
                         "Name": "Mathematics",
                         "Pathname": "maths_unnputme",
@@ -88,6 +72,5 @@
                         "description": "A brief Summary on Physics",
                         "icon": "media/icon.png?3"
                 }
-             ]
-        
-        }
+        ]
+}

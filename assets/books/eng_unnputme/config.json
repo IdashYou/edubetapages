@@ -10,19 +10,6 @@
 	"Author": "Soligbo Emmanuel",
 
 	"chapters":[
-		{
-		   "Topicname": "VOWEL SOUNDS",
-			"Topiclocation": "chapter1.html",
-			"pqindex": "-1",
-			"topicid": "1"
-		 },
-		 {
-			"Topicname": "CONSONANT SOUNDS",
-			"Topiclocation": "chapter2.html",
-			"pqindex": "-1",
-			"topicid": "2"
-			 
-		 },	
 		 {
 			"Topicname": "EMPHATIC STRESS",
 			 "Topiclocation": "chapter3.html",

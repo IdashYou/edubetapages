@@ -1,4 +1,4 @@
- {
+{
 	"id": "12",
 	"Name": "Physics",
 	"Pathname": "physics_unnputme",
@@ -8,313 +8,270 @@
 	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
 	"Version": 1,
 	"Author": "Soligbo Emmanuel",
-
-	"chapters":[
-		
-{
-	"Topicname": "Unit and Dimension",
-	 "Topiclocation": "chapter1.html",
-	 "pqindex": "-1",
-	 "topicid": "1"
-  },
-  {
-	 "Topicname": "Measurement of physical quantities",
-	 "Topiclocation": "chapter2.html",
-	 "pqindex": "-1",
-	 "topicid": "2"
-	  
-  },	
-  {
-	 "Topicname": "Motion I : Basic Concept",
-	  "Topiclocation": "chapter3.html",
-	  "pqindex": "-1",
-	  "topicid": "3"
-   },
-   {
-	  "Topicname": "Motion II : Forces and Friction",
-	  "Topiclocation": "chapter4.html",
-	  "pqindex": "-1",
-	  "topicid": "4"
-	   
-   },
-   {
-	  "Topicname": "Motion III : Circular Motion",
-	   "Topiclocation": "chapter5.html",
-	   "pqindex": "-1",
-	   "topicid": "5"
-	},
-	{
-	   "Topicname": "Energy work and Power",
-	   "Topiclocation": "chapter6.html",
-	   "pqindex": "-1",
-	   "topicid": "6"
-		
-	},	
-	{
-	   "Topicname": "Heat Energy I : Thermal Expansivity",
-		"Topiclocation": "chapter7.html",
-		"pqindex": "-1",
-		"topicid": "7"
-	 },
-	 {
-		"Topicname": "Heat Energy II: Transfer of Heat",
-		"Topiclocation": "chapter8.html",
-		"pqindex": "-1",
-		"topicid": "8"
-		 
-	 },	
-	 {
-		"Topicname": "Electrostatics",
-		 "Topiclocation": "chapter9.html",
-		 "pqindex": "-1",
-		 "topicid": "9"
-	  },
-	  {
-		 "Topicname": "Fields",
-		 "Topiclocation": "chapter10.html",
-		 "pqindex": "-1",
-		 "topicid": "10"
-		  
-	  },	
-	  {
-		 "Topicname": "Particulate Nature Of Matter",
-		  "Topiclocation": "chapter11.html",
-		  "pqindex": "-1",
-		  "topicid": "11"
-	   },
-	   {
-		  "Topicname": "Hookes Law",
-		  "Topiclocation": "chapter12.html",
-		  "pqindex": "-1",
-		  "topicid": "12"
-		   
-	   },
-	   {
-		  "Topicname": "Fluids at Rest and in motion",
-		  "Topiclocation": "chapter13.html",
-		  "pqindex": "-1",
-		  "topicid": "13"
-		   
-	   },	
-	   {
-		  "Topicname": "Electric Field",
-		   "Topiclocation": "chapter14.html",
-		   "pqindex": "-1",
-		   "topicid": "14"
+	"chapters": [
+		{
+			"Topicname": "Motion I : Basic Concept",
+			"Topiclocation": "chapter3.html",
+			"pqindex": "-1",
+			"topicid": "3"
 		},
 		{
-		   "Topicname": "The Solar Collector",
-		   "Topiclocation": "chapter15.html",
-		   "pqindex": "-1",
-		   "topicid": "15"
-			
+			"Topicname": "Motion II : Forces and Friction",
+			"Topiclocation": "chapter4.html",
+			"pqindex": "-1",
+			"topicid": "4"
 		},
 		{
-		   "Topicname": "Scalar and Vectors",
-		   "Topiclocation": "chapter16.html",
-		   "pqindex": "-1",
-		   "topicid": "16"
-			
-		},	
+			"Topicname": "Motion III : Circular Motion",
+			"Topiclocation": "chapter5.html",
+			"pqindex": "-1",
+			"topicid": "5"
+		},
 		{
-		   "Topicname": "Motion IV: Newton law of motion",
+			"Topicname": "Energy work and Power",
+			"Topiclocation": "chapter6.html",
+			"pqindex": "-1",
+			"topicid": "6"
+		},
+		{
+			"Topicname": "Heat Energy I : Thermal Expansivity",
+			"Topiclocation": "chapter7.html",
+			"pqindex": "-1",
+			"topicid": "7"
+		},
+		{
+			"Topicname": "Heat Energy II: Transfer of Heat",
+			"Topiclocation": "chapter8.html",
+			"pqindex": "-1",
+			"topicid": "8"
+		},
+		{
+			"Topicname": "Electrostatics",
+			"Topiclocation": "chapter9.html",
+			"pqindex": "-1",
+			"topicid": "9"
+		},
+		{
+			"Topicname": "Fields",
+			"Topiclocation": "chapter10.html",
+			"pqindex": "-1",
+			"topicid": "10"
+		},
+		{
+			"Topicname": "Particulate Nature Of Matter",
+			"Topiclocation": "chapter11.html",
+			"pqindex": "-1",
+			"topicid": "11"
+		},
+		{
+			"Topicname": "Hookes Law",
+			"Topiclocation": "chapter12.html",
+			"pqindex": "-1",
+			"topicid": "12"
+		},
+		{
+			"Topicname": "Fluids at Rest and in motion",
+			"Topiclocation": "chapter13.html",
+			"pqindex": "-1",
+			"topicid": "13"
+		},
+		{
+			"Topicname": "Electric Field",
+			"Topiclocation": "chapter14.html",
+			"pqindex": "-1",
+			"topicid": "14"
+		},
+		{
+			"Topicname": "The Solar Collector",
+			"Topiclocation": "chapter15.html",
+			"pqindex": "-1",
+			"topicid": "15"
+		},
+		{
+			"Topicname": "Scalar and Vectors",
+			"Topiclocation": "chapter16.html",
+			"pqindex": "-1",
+			"topicid": "16"
+		},
+		{
+			"Topicname": "Motion IV: Newton law of motion",
 			"Topiclocation": "chapter17.html",
 			"pqindex": "-1",
 			"topicid": "17"
-		 },
-		 {
+		},
+		{
 			"Topicname": "Motion V: Equations of motions",
 			"Topiclocation": "chapter18.html",
 			"pqindex": "-1",
 			"topicid": "18"
-			 
-		 },	
-		 {
+		},
+		{
 			"Topicname": "Motion VI: Projectiles",
-			 "Topiclocation": "chapter19.html",
-			 "pqindex": "-1",
-			 "topicid": "19"
-		  },
-		  {
-			 "Topicname": "Equlibrum of forces",
-			 "Topiclocation": "chapter20.html",
-			 "pqindex": "-1",
-			 "topicid": "20"
-			  
-		  },	
-		  {
+			"Topiclocation": "chapter19.html",
+			"pqindex": "-1",
+			"topicid": "19"
+		},
+		{
+			"Topicname": "Equlibrum of forces",
+			"Topiclocation": "chapter20.html",
+			"pqindex": "-1",
+			"topicid": "20"
+		},
+		{
 			"Topicname": "Equlibrum of Liquid and Gases",
 			"Topiclocation": "chapter21.html",
 			"pqindex": "-1",
 			"topicid": "21"
-			 
-		 },
-		  {
-			 "Topicname": "Motion VII: Simple Harmonic Motion",
-			  "Topiclocation": "chapter22.html",
-			  "pqindex": "-1",
-			  "topicid": "22"
-		   },
-		   {
-			  "Topicname": "Machine",
-			  "Topiclocation": "chapter23.html",
-			  "pqindex": "-1",
-			  "topicid": "23"
-			   
-		   },
-		   {
-			  "Topicname": "Heat III: Measurement of Temperature and Heat",
-			  "Topiclocation": "chapter24.html",
-			  "pqindex": "-1",
-			  "topicid": "24"
-			   
-		   },	
-		   {
-			  "Topicname": "Heat Energy IV: Further Concept of Heat",
-			   "Topiclocation": "chapter25.html",
-			   "pqindex": "-1",
-			   "topicid": "25"
-			},
-			{
-			   "Topicname": "Gas Law",
-			   "Topiclocation": "chapter26.html",
-			   "pqindex": "-1",
-			   "topicid": "26"
-				
-			},
-			{
-			   "Topicname": "Waves",
-				"Topiclocation": "chapter27.html",
-				"pqindex": "-1",
-				"topicid": "27"
-			 },
-			 {
-				"Topicname": "Light Waves",
-				"Topiclocation": "chapter28.html",
-				"pqindex": "-1",
-				"topicid": "28"
-				 
-			 },
-			 {
-				"Topicname": "Reflection of Light Waves (Mirror)",
-				"Topiclocation": "chapter29.html",
-				"pqindex": "-1",
-				"topicid": "29"
-				 
-			 }
-			 ,{
-				"Topicname": "Refraction of Light Waves (Lenses)",
-				"Topiclocation": "chapter30.html",
-				"pqindex": "-1",
-				"topicid": "30"
-				 
-			 },	
-			 {
-			   "Topicname": "Refraction of Light Waves (Application of Lenses)",
-			   "Topiclocation": "chapter31.html",
-			   "pqindex": "-1",
-			   "topicid": "31"
-				
-			},
-			 {
-				"Topicname": "Sound Waves",
-				 "Topiclocation": "chapter32.html",
-				 "pqindex": "-1",
-				 "topicid": "32"
-			  },
-			  {
-				 "Topicname": "Sound Waves (Sound Instrument and Beats)",
-				 "Topiclocation": "chapter33.html",
-				 "pqindex": "-1",
-				 "topicid": "33"
-				  
-			  },
-			  {
-				 "Topicname": "Gravitational Fields",
-				 "Topiclocation": "chapter34.html",
-				 "pqindex": "-1",
-				 "topicid": "34"
-				  
-			  },	
-			  {
-				 "Topicname": "Electric Fields",
-				  "Topiclocation": "chapter35.html",
-				  "pqindex": "-1",
-				  "topicid": "35"
-			   },
-			   {
-				  "Topicname": "Electromagnetics Fields",
-				  "Topiclocation": "chapter36.html",
-				  "pqindex": "-1",
-				  "topicid": "36"
-				   
-			   },
-			   {
-				  "Topicname": "Magnetic Fields",
-				   "Topiclocation": "chapter37.html",
-				   "pqindex": "-1",
-				   "topicid": "37"
-				},
-				{
-				   "Topicname": "Electricity I",
-				   "Topiclocation": "chapter38.html",
-				   "pqindex": "-1",
-				   "topicid": "38"
-					
-				},
-				{
-				   "Topicname": "Electricity II",
-				   "Topiclocation": "chapter39.html",
-				   "pqindex": "-1",
-				   "topicid": "39"
-					
-				}
-				,{
-				   "Topicname": "Electronics",
-				   "Topiclocation": "chapter40.html",
-				   "pqindex": "-1",
-				   "topicid": "40"
-					
-				},	
-				{
-				  "Topicname": "Electronics II (Microcontroller)",
-				  "Topiclocation": "chapter41.html",
-				  "pqindex": "-1",
-				  "topicid": "41"
-				   
-			   },
-				{
-				   "Topicname": "Model of Atom",
-					"Topiclocation": "chapter42.html",
-					"pqindex": "-1",
-					"topicid": "42"
-				 },
-				 {
-					"Topicname": "Energy Quantization and duality of Matter",
-					"Topiclocation": "chapter43.html",
-					"pqindex": "-1",
-					"topicid": "43"
-					 
-				 },
-				 {
-					"Topicname": "Chemical Effects of Current",
-					"Topiclocation": "chapter44.html",
-					"pqindex": "-1",
-					"topicid": "44"
-					 
-				 },	
-				 {
-					"Topicname": "Rockets and Satelite",
-					 "Topiclocation": "chapter45.html",
-					 "pqindex": "-1",
-					 "topicid": "45"
-				  },
-				  {
-					 "Topicname": "Dams and Energy Productions",
-					 "Topiclocation": "chapter46.html",
-					 "pqindex": "-1",
-					 "topicid": "46"
-					  
-				  }
- ]
- }
+		},
+		{
+			"Topicname": "Motion VII: Simple Harmonic Motion",
+			"Topiclocation": "chapter22.html",
+			"pqindex": "-1",
+			"topicid": "22"
+		},
+		{
+			"Topicname": "Machine",
+			"Topiclocation": "chapter23.html",
+			"pqindex": "-1",
+			"topicid": "23"
+		},
+		{
+			"Topicname": "Heat III: Measurement of Temperature and Heat",
+			"Topiclocation": "chapter24.html",
+			"pqindex": "-1",
+			"topicid": "24"
+		},
+		{
+			"Topicname": "Heat Energy IV: Further Concept of Heat",
+			"Topiclocation": "chapter25.html",
+			"pqindex": "-1",
+			"topicid": "25"
+		},
+		{
+			"Topicname": "Gas Law",
+			"Topiclocation": "chapter26.html",
+			"pqindex": "-1",
+			"topicid": "26"
+		},
+		{
+			"Topicname": "Waves",
+			"Topiclocation": "chapter27.html",
+			"pqindex": "-1",
+			"topicid": "27"
+		},
+		{
+			"Topicname": "Light Waves",
+			"Topiclocation": "chapter28.html",
+			"pqindex": "-1",
+			"topicid": "28"
+		},
+		{
+			"Topicname": "Reflection of Light Waves (Mirror)",
+			"Topiclocation": "chapter29.html",
+			"pqindex": "-1",
+			"topicid": "29"
+		},
+		{
+			"Topicname": "Refraction of Light Waves (Lenses)",
+			"Topiclocation": "chapter30.html",
+			"pqindex": "-1",
+			"topicid": "30"
+		},
+		{
+			"Topicname": "Refraction of Light Waves (Application of Lenses)",
+			"Topiclocation": "chapter31.html",
+			"pqindex": "-1",
+			"topicid": "31"
+		},
+		{
+			"Topicname": "Sound Waves",
+			"Topiclocation": "chapter32.html",
+			"pqindex": "-1",
+			"topicid": "32"
+		},
+		{
+			"Topicname": "Sound Waves (Sound Instrument and Beats)",
+			"Topiclocation": "chapter33.html",
+			"pqindex": "-1",
+			"topicid": "33"
+		},
+		{
+			"Topicname": "Gravitational Fields",
+			"Topiclocation": "chapter34.html",
+			"pqindex": "-1",
+			"topicid": "34"
+		},
+		{
+			"Topicname": "Electric Fields",
+			"Topiclocation": "chapter35.html",
+			"pqindex": "-1",
+			"topicid": "35"
+		},
+		{
+			"Topicname": "Electromagnetics Fields",
+			"Topiclocation": "chapter36.html",
+			"pqindex": "-1",
+			"topicid": "36"
+		},
+		{
+			"Topicname": "Magnetic Fields",
+			"Topiclocation": "chapter37.html",
+			"pqindex": "-1",
+			"topicid": "37"
+		},
+		{
+			"Topicname": "Electricity I",
+			"Topiclocation": "chapter38.html",
+			"pqindex": "-1",
+			"topicid": "38"
+		},
+		{
+			"Topicname": "Electricity II",
+			"Topiclocation": "chapter39.html",
+			"pqindex": "-1",
+			"topicid": "39"
+		},
+		{
+			"Topicname": "Electronics",
+			"Topiclocation": "chapter40.html",
+			"pqindex": "-1",
+			"topicid": "40"
+		},
+		{
+			"Topicname": "Electronics II (Microcontroller)",
+			"Topiclocation": "chapter41.html",
+			"pqindex": "-1",
+			"topicid": "41"
+		},
+		{
+			"Topicname": "Model of Atom",
+			"Topiclocation": "chapter42.html",
+			"pqindex": "-1",
+			"topicid": "42"
+		},
+		{
+			"Topicname": "Energy Quantization and duality of Matter",
+			"Topiclocation": "chapter43.html",
+			"pqindex": "-1",
+			"topicid": "43"
+		},
+		{
+			"Topicname": "Chemical Effects of Current",
+			"Topiclocation": "chapter44.html",
+			"pqindex": "-1",
+			"topicid": "44"
+		},
+		{
+			"Topicname": "Rockets and Satelite",
+			"Topiclocation": "chapter45.html",
+			"pqindex": "-1",
+			"topicid": "45"
+		},
+		{
+			"Topicname": "Dams and Energy Productions",
+			"Topiclocation": "chapter46.html",
+			"pqindex": "-1",
+			"topicid": "46"
+		}
+	]
+}
