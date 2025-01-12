@@ -8,21 +8,7 @@
 	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
 	"Version": 1,
 	"Author": "Soligbo Emmanuel",
- "chapters":[
-		
-{
-	"Topicname": "Indices",
-	 "Topiclocation": "chapter1.html",
-	 "pqindex": "-1",
-	 "topicid": "1"
-  },
-  {
-	 "Topicname": "Logarithm I",
-	 "Topiclocation": "chapter2.html",
-	 "pqindex": "-1",
-	 "topicid": "2"
-	  
-  },	
+ "chapters":[	
   {
 	 "Topicname": "Set",
 	  "Topiclocation": "chapter3.html",

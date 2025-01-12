@@ -8,21 +8,7 @@
 	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
 	"Version": 1,
 	"Author": "Soligbo Emmanuel",
-	"chapters":[
-		
-		{
-			"Topicname": "DEFINITIONS OF ECONOMICS AND BASIC CONCEPTS",
-			 "Topiclocation": "chapter1.html",
-			 "pqindex": "-1",
-			 "topicid": "1"
-		  },
-		  {
-			 "Topicname": "BASIC TOOLS FOR ECONOMIC ANALYSIS ",
-			 "Topiclocation": "chapter2.html",
-			 "pqindex": "-1",
-			 "topicid": "2"
-			  
-		  },	
+	"chapters":[	
 		  {
 			 "Topicname": "BASIC ECONOMIC PROBLEM",
 			  "Topiclocation": "chapter3.html",

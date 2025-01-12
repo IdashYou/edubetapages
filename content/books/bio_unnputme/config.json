@@ -10,21 +10,7 @@
 	"Author": "Soligbo Emmanuel",
  
 "chapters":[
-	
-{
-   "Topicname": "INTRO TO BIOLOGY",
-	"Topiclocation": "chapter1.html",
-	"pqindex": "-1",
-	"topicid": "1"
- },
- {
-	"Topicname": "KINGDOM CLASSIFICATION",
-	"Topiclocation": "chapter2.html",
-	"pqindex": "-1",
-	"topicid": "2"
-	 
- },	
- {
+    {
 	"Topicname": "CHARACTERITICS OF LIVING THINGS",
 	 "Topiclocation": "chapter3.html",
 	 "pqindex": "-1",

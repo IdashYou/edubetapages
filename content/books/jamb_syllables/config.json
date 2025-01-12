@@ -11,18 +11,6 @@
 
   "chapters": [
     {
-      "Topicname": "Mathematics Syllable",
-      "Topiclocation": "chapter1.html",
-      "pqindex": "-1",
-      "topicid": "1"
-    },
-    {
-      "Topicname": "English Syllable",
-      "Topiclocation": "chapter2.html",
-      "pqindex": "-1",
-      "topicid": "2"
-    },
-    {
       "Topicname": "Chemistry Syllable",
       "Topiclocation": "chapter3.html",
       "pqindex": "-1",
