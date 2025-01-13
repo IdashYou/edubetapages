@@ -17,27 +17,11 @@
                         "icon": "media/icon.png?3"
                 },
                 {
-                        "id": "6",
-                        "Name": "Economics",
-                        "Pathname": "econs_unnputme",
-                        "pqpath": "econs_unnputme",
-                        "description": "A summary on Economics",
-                        "icon": "media/icon.png?3"
-                },
-                {
                         "id": "7",
                         "Name": "English Studies",
                         "Pathname": "eng_unnputme",
                         "pqpath": "eng_unnputme",
                         "description": "A summary on English Language",
-                        "icon": "media/icon.png?3"
-                },
-                {
-                        "id": "10",
-                        "Name": "Government",
-                        "Pathname": "gov_unnputme",
-                        "pqpath": "Government_putmeunn",
-                        "description": "A summary on Government",
                         "icon": "media/icon.png?3"
                 },
                 {
