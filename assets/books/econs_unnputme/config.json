@@ -125,24 +125,6 @@
 			"topicid": "19"
 		},
 		{
-			"Topicname": "NATIONAL INCOME",
-			"Topiclocation": "chapter20.html",
-			"pqindex": "-1",
-			"topicid": "20"
-		},
-		{
-			"Topicname": "INTERNATIONAL TRADE",
-			"Topiclocation": "chapter23.html",
-			"pqindex": "-1",
-			"topicid": "23"
-		},
-		{
-			"Topicname": "TAXATION",
-			"Topiclocation": "chapter24.html",
-			"pqindex": "-1",
-			"topicid": "24"
-		},
-		{
 			"Topicname": "AGRICULTURE",
 			"Topiclocation": "chapter25.html",
 			"pqindex": "-1",
@@ -165,6 +147,24 @@
 			"Topiclocation": "chapter28.html",
 			"pqindex": "-1",
 			"topicid": "28"
+		},
+		{
+			"Topicname": "NATIONAL INCOME",
+			"Topiclocation": "chapter20.html",
+			"pqindex": "-1",
+			"topicid": "20"
+		},
+		{
+			"Topicname": "INTERNATIONAL TRADE",
+			"Topiclocation": "chapter23.html",
+			"pqindex": "-1",
+			"topicid": "23"
+		},
+		{
+			"Topicname": "TAXATION",
+			"Topiclocation": "chapter24.html",
+			"pqindex": "-1",
+			"topicid": "24"
 		}
 	]
 }

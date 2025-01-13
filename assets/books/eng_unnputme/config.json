@@ -1,4 +1,4 @@
- {
+{
 	"id": "5",
 	"Name": "English Studies",
 	"Pathname": "chem_unnputme",
@@ -8,183 +8,102 @@
 	"certkey": "kidjjdo900iwsmsmsmsiw0w00k",
 	"Version": 1,
 	"Author": "Soligbo Emmanuel",
-
-	"chapters":[
-		 {
+	"chapters": [
+		{
 			"Topicname": "EMPHATIC STRESS",
-			 "Topiclocation": "chapter3.html",
-			 "pqindex": "-1",
-			 "topicid": "3"
-		  },
-		  {
-			 "Topicname": "STRESS",
-			 "Topiclocation": "chapter4.html",
-			 "pqindex": "-1",
-			 "topicid": "4"
-			  
-		  },
-		  {
-			 "Topicname": "WORDS SIMILAR IN MEANING (SYNONYMS)",
-			  "Topiclocation": "chapter5.html",
-			  "pqindex": "-1",
-			  "topicid": "5"
-		   },
-		   {
-			  "Topicname": "WORDS OPPOSITE IN MEANING (ANTONYMS)",
-			  "Topiclocation": "chapter6.html",
-			  "pqindex": "-1",
-			  "topicid": "6"
-			   
-		   },	
-		   {
-			  "Topicname": "MOST APPROPRIATE WORD AND COMMONLY CONFUSED WORDS",
-			   "Topiclocation": "chapter7.html",
-			   "pqindex": "-1",
-			   "topicid": "7"
-			},
-			{
-			   "Topicname": "MASTER THESE SPELLINGS",
-			   "Topiclocation": "chapter8.html",
-			   "pqindex": "-1",
-			   "topicid": "8"
-				
-			},	
-			{
-			   "Topicname": "SUMMARY OF THE EIGHT PARTS OF SPEECH",
-				"Topiclocation": "chapter9.html",
-				"pqindex": "-1",
-				"topicid": "9"
-			 },
-			 {
-				"Topicname": "ORDER OF ADJECTIVES",
-				"Topiclocation": "chapter10.html",
-				"pqindex": "-1",
-				"topicid": "10"
-				 
-			 },	
-			 {
-				"Topicname": "INTRODUCTION TO PRONOUNS",
-				 "Topiclocation": "chapter11.html",
-				 "pqindex": "-1",
-				 "topicid": "11"
-			  },
-			  {
-				 "Topicname": "QUESTIONS ON PRONOUN; ‘WHO’, ‘WHOM’ AND ‘WHOSE’",
-				 "Topiclocation": "chapter12.html",
-				 "pqindex": "-1",
-				 "topicid": "12"
-				  
-			  },
-			  {
-				 "Topicname": "INTRODUCTION TO TENSES",
-				 "Topiclocation": "chapter13.html",
-				 "pqindex": "-1",
-				 "topicid": "13"
-				  
-			  },	
-			  {
-				 "Topicname": "IRREGULAR VERBS ",
-				  "Topiclocation": "chapter14.html",
-				  "pqindex": "-1",
-				  "topicid": "14"
-			   },
-			   {
-				  "Topicname": "QUESTIONS ON VERB (HAS, HAVE AND HAD)",
-				  "Topiclocation": "chapter15.html",
-				  "pqindex": "-1",
-				  "topicid": "15"
-				   
-			   },
-			   {
-				  "Topicname": "QUESTIONS ON VERB; LAY AND LIE",
-				  "Topiclocation": "chapter16.html",
-				  "pqindex": "-1",
-				  "topicid": "16"
-			   },	
-			   {
-				  "Topicname": "VERB QUESTIONS; ‘WAS’ AND ‘WHEN’",
-				   "Topiclocation": "chapter17.html",
-				   "pqindex": "-1",
-				   "topicid": "17"
-				},
-				{
-				   "Topicname": "VERB QUESTIONS; ‘LOOSE’, ‘LOSE’ OR ‘LOOSEN’",
-				   "Topiclocation": "chapter18.html",
-				   "pqindex": "-1",
-				   "topicid": "18"
-					
-				},	
-				{
-				   "Topicname": "QUESTIONS ON SUBJECT – VERB AGREEMENT",
-					"Topiclocation": "chapter19.html",
-					"pqindex": "-1",
-					"topicid": "19"
-				 },
-				 {
-					"Topicname": "OTHER GRAMMER NOTES",
-					"Topiclocation": "chapter20.html",
-					"pqindex": "-1",
-					"topicid": "20"
-					 
-				 },	
-				 
-				 {
-					"Topicname": "REPORTED SPEECH",
-					"Topiclocation": "chapter21.html",
-					"pqindex": "-1",
-					"topicid": "21"
-					 
-				 },	
-				 
-				 {
-					"Topicname": "PREPOSITION",
-					"Topiclocation": "chapter22.html",
-					"pqindex": "-1",
-					"topicid": "22"
-					 
-				 },
-				 {
-					"Topicname": "MOST APPROPRIATE EXPRESSION AND INTERPRETATION",
-					 "Topiclocation": "chapter23.html",
-					 "pqindex": "-1",
-					 "topicid": "23"
-				  },
-				  {
-					 "Topicname": "PHRASAL VERBS",
-					 "Topiclocation": "chapter24.html",
-					 "pqindex": "-1",
-					 "topicid": "24"
-					  
-				  },
-				  {
-					 "Topicname": "IDIOMATIC EXPRESSION",
-					 "Topiclocation": "chapter25.html",
-					 "pqindex": "-1",
-					 "topicid": "25"
-					  
-				  }
-				  ,
-				  {
-					 "Topicname": "QUESTION TAG",
-					 "Topiclocation": "chapter26.html",
-					 "pqindex": "-1",
-					 "topicid": "26"
-					  
-				  },
-				  {
-					 "Topicname": "COMPREHENSION",
-					 "Topiclocation": "chapter27.html",
-					 "pqindex": "-1",
-					 "topicid": "27"
-					  
-				  },
-				  {
-					 "Topicname": "ANSWERING QUESTIONS ABOUT APOSTROPHES",
-					 "Topiclocation": "chapter28.html",
-					 "pqindex": "-1",
-					 "topicid": "28"
-					  
-				  }
-		]
-
- }
+			"Topiclocation": "chapter3.html",
+			"pqindex": "-1",
+			"topicid": "3"
+		},
+		{
+			"Topicname": "STRESS",
+			"Topiclocation": "chapter4.html",
+			"pqindex": "-1",
+			"topicid": "4"
+		},
+		{
+			"Topicname": "WORDS SIMILAR IN MEANING (SYNONYMS)",
+			"Topiclocation": "chapter5.html",
+			"pqindex": "-1",
+			"topicid": "5"
+		},
+		{
+			"Topicname": "WORDS OPPOSITE IN MEANING (ANTONYMS)",
+			"Topiclocation": "chapter6.html",
+			"pqindex": "-1",
+			"topicid": "6"
+		},
+		{
+			"Topicname": "MOST APPROPRIATE WORD AND COMMONLY CONFUSED WORDS",
+			"Topiclocation": "chapter7.html",
+			"pqindex": "-1",
+			"topicid": "7"
+		},
+		{
+			"Topicname": "MASTER THESE SPELLINGS",
+			"Topiclocation": "chapter8.html",
+			"pqindex": "-1",
+			"topicid": "8"
+		},
+		{
+			"Topicname": "SUMMARY OF THE EIGHT PARTS OF SPEECH",
+			"Topiclocation": "chapter9.html",
+			"pqindex": "-1",
+			"topicid": "9"
+		},
+		{
+			"Topicname": "ORDER OF ADJECTIVES",
+			"Topiclocation": "chapter10.html",
+			"pqindex": "-1",
+			"topicid": "10"
+		},
+		{
+			"Topicname": "INTRODUCTION TO PRONOUNS",
+			"Topiclocation": "chapter11.html",
+			"pqindex": "-1",
+			"topicid": "11"
+		},
+		{
+			"Topicname": "QUESTIONS ON PRONOUN; ‘WHO’, ‘WHOM’ AND ‘WHOSE’",
+			"Topiclocation": "chapter12.html",
+			"pqindex": "-1",
+			"topicid": "12"
+		},
+		{
+			"Topicname": "INTRODUCTION TO TENSES",
+			"Topiclocation": "chapter13.html",
+			"pqindex": "-1",
+			"topicid": "13"
+		},
+		{
+			"Topicname": "IRREGULAR VERBS ",
+			"Topiclocation": "chapter14.html",
+			"pqindex": "-1",
+			"topicid": "14"
+		},
+		{
+			"Topicname": "QUESTIONS ON VERB (HAS, HAVE AND HAD)",
+			"Topiclocation": "chapter15.html",
+			"pqindex": "-1",
+			"topicid": "15"
+		},
+		{
+			"Topicname": "QUESTION TAG",
+			"Topiclocation": "chapter26.html",
+			"pqindex": "-1",
+			"topicid": "26"
+		},
+		{
+			"Topicname": "COMPREHENSION",
+			"Topiclocation": "chapter27.html",
+			"pqindex": "-1",
+			"topicid": "27"
+		},
+		{
+			"Topicname": "ANSWERING QUESTIONS ABOUT APOSTROPHES",
+			"Topiclocation": "chapter28.html",
+			"pqindex": "-1",
+			"topicid": "28"
+		}
+	]
+}
