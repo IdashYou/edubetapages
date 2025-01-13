@@ -17,14 +17,6 @@
                         "icon": "media/icon.png?3"
                 },
                 {
-                        "id": "5",
-                        "Name": "CRK",
-                        "Pathname": "crk_unnputme",
-                        "pqpath": "crk_unnputme",
-                        "description": "A summary on CRK",
-                        "icon": "media/icon.png?3"
-                },
-                {
                         "id": "6",
                         "Name": "Economics",
                         "Pathname": "econs_unnputme",
