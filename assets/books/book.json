@@ -17,6 +17,14 @@
                         "icon": "media/icon.png?3"
                 },
                 {
+                        "id": "6",
+                        "Name": "Economics",
+                        "Pathname": "econs_unnputme",
+                        "pqpath": "econs_unnputme",
+                        "description": "A summary on Economics",
+                        "icon": "media/icon.png?3"
+                },
+                {
                         "id": "7",
                         "Name": "English Studies",
                         "Pathname": "eng_unnputme",

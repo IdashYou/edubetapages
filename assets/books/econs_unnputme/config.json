@@ -33,24 +33,7 @@
 			"pqindex": "-1",
 			"topicid": "6"
 		},
-		{
-			"Topicname": "PRICE SYSTEM AND DEMAND AND SUPPLY FUNCTIONS",
-			"Topiclocation": "chapter7.html",
-			"pqindex": "-1",
-			"topicid": "7"
-		},
-		{
-			"Topicname": "MARKET MECHANISM AND EQUILIBRIUM",
-			"Topiclocation": "chapter8.html",
-			"pqindex": "-1",
-			"topicid": "8"
-		},
-		{
-			"Topicname": "ELASTICITY IN ECONOMICS",
-			"Topiclocation": "chapter9.html",
-			"pqindex": "-1",
-			"topicid": "9"
-		},
+		
 		{
 			"Topicname": "PRODUCTION",
 			"Topiclocation": "chapter10.html",
@@ -70,6 +53,24 @@
 			"topicid": "12"
 		},
 		{
+			"Topicname": "PRICE SYSTEM AND DEMAND AND SUPPLY FUNCTIONS",
+			"Topiclocation": "chapter7.html",
+			"pqindex": "-1",
+			"topicid": "7"
+		},
+		{
+			"Topicname": "MARKET MECHANISM AND EQUILIBRIUM",
+			"Topiclocation": "chapter8.html",
+			"pqindex": "-1",
+			"topicid": "8"
+		},
+		{
+			"Topicname": "ELASTICITY IN ECONOMICS",
+			"Topiclocation": "chapter9.html",
+			"pqindex": "-1",
+			"topicid": "9"
+		},
+		{
 			"Topicname": "POPULATION",
 			"Topiclocation": "chapter13.html",
 			"pqindex": "-1",
@@ -86,6 +87,18 @@
 			"Topiclocation": "chapter15.html",
 			"pqindex": "-1",
 			"topicid": "15"
+		},
+		{
+			"Topicname": "INFLATION",
+			"Topiclocation": "chapter21.html",
+			"pqindex": "-1",
+			"topicid": "21"
+		},
+		{
+			"Topicname": "DEFLATION",
+			"Topiclocation": "chapter22.html",
+			"pqindex": "-1",
+			"topicid": "22"
 		},
 		{
 			"Topicname": "INDUSTRIALIZATION",
@@ -116,18 +129,6 @@
 			"Topiclocation": "chapter20.html",
 			"pqindex": "-1",
 			"topicid": "20"
-		},
-		{
-			"Topicname": "INFLATION",
-			"Topiclocation": "chapter21.html",
-			"pqindex": "-1",
-			"topicid": "21"
-		},
-		{
-			"Topicname": "DEFLATION",
-			"Topiclocation": "chapter22.html",
-			"pqindex": "-1",
-			"topicid": "22"
 		},
 		{
 			"Topicname": "INTERNATIONAL TRADE",
